@@ -30,7 +30,7 @@ Voor de evaluatie van verschillende prototypes tijdens interviews werd de benade
 
 Na iedere fase van onderzoek en prototypes is er een grondige analyse gemaakt van de resultaten. Deze zijn terug te vinden in de OneDrive (Opdracht gebruiksgericht ontwerpen) ieder onder hun eigen fase. De bevindingen worden meegenomen in doorlopen van volgende fasen tot aan het eindconcept. 
 ## Discovery
-### Doestellingen
+### Doelstellingen
 Wat willen we juist bereiken in de discovery fase? Het doel is om te onderzoeken hoe kinderen omgaan met de natuur. Is het mogelijk om technologie als stimulans te gebruiken om kinderen meer op een speelse manier naar buiten te doen gaan? Hoeveel tijd brengen kinderen door binnen? We trekken het probleem open en kijken naar het brede aspect ervan. We willen inzichten verkrijgen over hoe kinderen de natuur nu ervaren. Hiernaast willen we ook te weten komen welk speelgoed kinderen momenteel het meest bezig houdt en waarom dit zo is. 
 ### Materiaal & methoden
 In deze fase was het essentieel om het probleem grondig te verkennen. Door middel van deskresearch en een focusgroep met betrekking tot het probleem hebben we een globaal overzicht verkregen van diverse inzichten. 
