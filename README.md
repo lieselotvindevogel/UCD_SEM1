@@ -1,18 +1,15 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+# Nature Quest
+Een interactieve telescoop met augmented reality, ontworpen om kinderen tussen 6 en 11 jaar op een speelse wijze naar buiten te lokken, waar ze punten kunnen verdienen door natuurlijke objecten te scannen en zo hun virtuele avatar aanpassen, met als doel de relatie tussen kinderen en de natuur te versterken. * 
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Guus Lecho; Lieselot Vindevogel *
 
-Datum
+2023-2024
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voornamelijk als gevolg van de groeiende populariteit van smartphones, spelcomputers en tablets onder de jongere generaties. Deze bevinding is gebaseerd op deskresearch en onderzoek rechtstreeks bij de doelgroep. Ons concept is gericht op het aanpakken van deze trend en biedt een innovatieve benadering om kinderen op een speelse wijze naar buiten te lokken, waar ze de natuur kunnen verkennen. 
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
+
 
 ## Introductie
 Max 300 woorden.
