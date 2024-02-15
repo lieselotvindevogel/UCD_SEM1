@@ -10,11 +10,13 @@ Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voorn
 
 Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
 <p>
-<img src="https://github.com/lieselotvindevogel/images/blob/main/herosketch.png" width= "70%"/></br><em> Figuur 1: Herosketch </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/herosketch.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
 </p>
 
 ## Introductie
 From screen time to green time. Een project om kinderen op een speelse manier weer naar buiten te brengen, midden in de natuur. Kunnen we technologie inzetten als een krachtige stimulans om jongeren aan te moedigen om meer buiten te spelen, extra plezier te beleven en tegelijkertijd kennis over de natuur op te doen? Het idee is om kinderen met behulp van een technologisch object de natuur in te lokken en hen een betoverende ervaring te bieden. 
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.jpg" width= "40%"/></br><em>Figuur 2: (Children are playing outside less and less | Adventure+, z.d.)</em>
+</p>
 
 We richten ons specifiek op kinderen rond de leeftijd van 6 tot 11 jaar, omdat deze groep al voldoende bewustzijn heeft om zelf te ontdekken hoe ze met nieuwe technologieën kunnen omgaan. Het is van essentieel belang dat kinderen het object direct begrijpen en kunnen bedienen zodra ze het in handen krijgen. Ons doel is om kinderen op een interactieve wijze naar buiten te laten gaan, waarbij ze met behulp van technologie de wereld om hen heen kunnen verkennen. 
 
