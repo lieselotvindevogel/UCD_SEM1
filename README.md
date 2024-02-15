@@ -23,7 +23,11 @@ We richten ons specifiek op kinderen rond de leeftijd van 6 tot 11 jaar, omdat d
 Met het finaal concept wordt er gestreefd om de natuur te verbinden met de digitale wereld op een manier die boeiend en educatief is voor kinderen. Door middel van een innovatief technologisch apparaat willen we niet alleen de barrière tussen scherm en natuur doorbreken, maar ook een positieve impuls geven aan de relatie tussen kinderen en hun natuurlijke omgeving. Het project streeft ernaar om buiten spelen aantrekkelijker te maken en tegelijkertijd een waardevolle en leerzame ervaring te bieden. 
 
 ## Methodologie
-De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD process van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hang van het NPD process.  
+De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD process van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hang van het NPD process. 
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.png" width= "60%"/></br><em>Figuur 3: methodologie </em>
+</p>
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.png" width= "60%"/></br><em>Figuur 4: methodologie </em>
+</p>
 In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden zorgvuldig de behoeften en wensen van gebruikers onderzocht. Hiermee werd een gefundeerde “how might we” gevormd waarmee er in de volgende fase aan de slag wordt gegaan. Dit staat gelijk aan het doorlopen van fase 1-2-3 bij Roozenberg en Eekels. Fase 4 is het einde van de discovery fase. De eerste definitie van het probleem is herbekeken en tot een “how might we” gekomen.  
 
 “Hoe kunnen we schoolkinderen (6-11j) avontuur en ontdekking in de natuur laten beleven met behulp van een slim speelgoed?” 
