@@ -122,11 +122,13 @@ Bij deze wave krijgt de gebruiker telkens maar één versie van de prototypes te
 
 ### Resultaten
 
-De resultaten van wave 1 zijn:
+<ul>De resultaten van wave 1 zijn:
+ 
+ <li>Gebruiker 1: Telescoop > vergrootglas > verrekijker</li>
+ <li>Gebruiker 2: Verrekijker > telescoop > vergrootglas</li>
+ <li>Gebruiker 3: Telescoop > verrekijker > vergrootglas</li>
+</ul>
 De volgorde van de vorm waren voor iedere gebruiker anders.
-Gebruiker 1: Telescoop > vergrootglas > verrekijker
-Gebruiker 2: Verrekijker > telescoop > vergrootglas
-Gebruiker 3: Telescoop > verrekijker > vergrootglas
 <p><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 7: gebruiker wave 1</em>
 </p>
 <p>Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
