@@ -116,6 +116,8 @@ Welke vorm van het speelgoed werkt het beste?
 De gebruiker krijgt alle drie de versies te zien. Hij moet vervolgens een korte simulatie doorlopen met elke versie. De geïnterviewde kan dus zeer goed kiezen en vergelijken welke versie van het object hij het beste vindt.
 Wave 2 prototypes: kijkt naar de interactie met het product en hoe de gebruiker het scherm zal bedienen. (n=3)
 Materiaal:
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.png" width= "60%"/></br><em> Figuur 6: prototype wave 2 </em>
+</p>
 Methode:
 Aan de hand van deze drie objecten wordt een gebruikers interview opgesteld om antwoord te krijgen op volgende onderzoeksvragen:
 Welke positie van de knoppen zorgt voor de makkelijkste interactie?
@@ -136,12 +138,16 @@ De volgorde van de vorm waren voor iedere gebruiker anders.
 <p>Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
 Bij de telescoop verstaan de kinderen rapper hoe ze met het voorwerp moeten omgaan. Dit kan ook liggen aan enige herkenning met het voorwerp, maar ook omdat het iets is wat eenvoudig te gebruiken valt. Het interesseert de kinderen zeker en vast dat de telescoop kan uitschuiven. Over het uitschuiven moet nog praktisch nagedacht worden omdat dit niet eenvoudig te realiseren valt met de elektronica die erin zal verwerkt moeten worden.
 </p>
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.jpg" width= "30%"/></br><em> Figuur 8: gebruiker wave 1</em>
+</p>
 De resultaten van wave 2 zijn:
 De versie met de knoppen vooraan gaf de beste ervaring. Door de knoppen vanachter botste de gebruiker met zijn mouw tegen het gezicht. De variant van knoppen vooraan is minder duidelijk te kiezen. Wel zijn er enkele designfeatures waar rekening mee gehouden kan worden om tot een derde finale variant van knoppen te komen.
 
 De knoppen zouden best iets groter zijn, zodat er minder gekeken moet worden en dat er minder vaak twee knoppen tegelijk ingedrukt worden.
 De knoppen moeten meer intuïtief zijn en feedback geven zodat de kinderen niet moeten kijken op welke knop ze duwen maar dat ze het kunnen voelen. Iets minder knoppen kunnen hier ook bij helpen.
 Het design moet ook zowel voor rechtshandigen als voor linkshandigen werken.
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.jpg" width= "30%"/></br><em> Figuur 8: gebruiker wave 1</em>
+</p>
 
 De resultaten van de interviews zijn vervat in enkele rapporten die terug te vinden zijn in volgende mapje definition.
 
