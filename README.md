@@ -103,6 +103,8 @@ De vorm van het product is onderzocht geweest aan de hand van twee waves van pro
 
 Wave 1 prototypes: test de algemene vorm van het product. (n=3) 
 Materiaal: 
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding4.png" width= "60%"/></br><em>Figuur 5: prototypes wave 1 </em>
+</p>
 Methode: 
 Aan de hand van deze drie objecten wordt een gebruikers interview opgesteld om antwoord te krijgen op volgende onderzoeksvraag:
 Welke vorm van het speelgoed werkt het beste?
