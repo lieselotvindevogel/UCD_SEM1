@@ -9,7 +9,7 @@ Projectteam: Guus Lecho; Lieselot Vindevogel
 Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voornamelijk als gevolg van de groeiende populariteit van smartphones, spelcomputers en tablets onder de jongere generaties. Deze bevinding is gebaseerd op deskresearch en onderzoek rechtstreeks bij de doelgroep. Ons concept is gericht op het aanpakken van deze trend en biedt een innovatieve benadering om kinderen op een speelse wijze naar buiten te lokken, waar ze de natuur kunnen verkennen. 
 
 Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
-
+<img src="https://github.com/lieselotvindevogel/images/blob/main/herosketch.png" width= "70%"/></br><em> Figuur 1: Herosketch 1</em>
 
 
 ## Introductie
