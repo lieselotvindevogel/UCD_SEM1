@@ -9,7 +9,7 @@ Projectteam: Guus Lecho; Lieselot Vindevogel
 Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voornamelijk als gevolg van de groeiende populariteit van smartphones, spelcomputers en tablets onder de jongere generaties. Deze bevinding is gebaseerd op deskresearch en onderzoek rechtstreeks bij de doelgroep. Ons concept is gericht op het aanpakken van deze trend en biedt een innovatieve benadering om kinderen op een speelse wijze naar buiten te lokken, waar ze de natuur kunnen verkennen. 
 
 Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
-<p>
+<p> 
 <img src="https://github.com/lieselotvindevogel/images/blob/main/herosketch.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
 </p>
 
@@ -127,7 +127,7 @@ De volgorde van de vorm waren voor iedere gebruiker anders.
 Gebruiker 1: Telescoop > vergrootglas > verrekijker
 Gebruiker 2: Verrekijker > telescoop > vergrootglas
 Gebruiker 3: Telescoop > verrekijker > vergrootglas
-<p><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "70%"/></br><em> Figuur 7: gebruiker wave 1</em>
+<p><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 7: gebruiker wave 1</em>
 </p>
 <p>Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
 Bij de telescoop verstaan de kinderen rapper hoe ze met het voorwerp moeten omgaan. Dit kan ook liggen aan enige herkenning met het voorwerp, maar ook omdat het iets is wat eenvoudig te gebruiken valt. Het interesseert de kinderen zeker en vast dat de telescoop kan uitschuiven. Over het uitschuiven moet nog praktisch nagedacht worden omdat dit niet eenvoudig te realiseren valt met de elektronica die erin zal verwerkt moeten worden.
