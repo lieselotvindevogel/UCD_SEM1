@@ -1,4 +1,4 @@
-# Nature Quest
+<title>Nature Quest</title>
 Een interactieve telescoop met augmented reality, ontworpen om kinderen tussen 6 en 11 jaar op een speelse wijze naar buiten te lokken, waar ze punten kunnen verdienen door natuurlijke objecten te scannen en zo hun virtuele avatar aanpassen, met als doel de relatie tussen kinderen en de natuur te versterken.  
 
 Projectteam: Guus Lecho; Lieselot Vindevogel 
@@ -114,15 +114,17 @@ Welke variant van knoppen levert het hoogste gebruiksgemak en hoe moeten deze kn
 Bij deze wave krijgt de gebruiker telkens maar één versie van de prototypes te zien. We willen een diepere connectie met de gebruiker en het voorwerp. We willen geen oppervlakkige vergelijking tussen de verschillende opties maar we willen begrijpen waarom een bepaalde versie goed of slecht is zodat deze goede of slechte eigenschappen ook bekeken kunnen worden in de andere versies.
 
 ### Resultaten
+
 De resultaten van wave 1 zijn:
 De volgorde van de vorm waren voor iedere gebruiker anders.
 Gebruiker 1: Telescoop > vergrootglas > verrekijker
 Gebruiker 2: Verrekijker > telescoop > vergrootglas
 Gebruiker 3: Telescoop > verrekijker > vergrootglas
-
-Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
+<p><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "70%"/></br><em> Figuur 7: gebruiker wave 1</em>
+</p>
+<p>Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
 Bij de telescoop verstaan de kinderen rapper hoe ze met het voorwerp moeten omgaan. Dit kan ook liggen aan enige herkenning met het voorwerp, maar ook omdat het iets is wat eenvoudig te gebruiken valt. Het interesseert de kinderen zeker en vast dat de telescoop kan uitschuiven. Over het uitschuiven moet nog praktisch nagedacht worden omdat dit niet eenvoudig te realiseren valt met de elektronica die erin zal verwerkt moeten worden.
-
+</p>
 De resultaten van wave 2 zijn:
 De versie met de knoppen vooraan gaf de beste ervaring. Door de knoppen vanachter botste de gebruiker met zijn mouw tegen het gezicht. De variant van knoppen vooraan is minder duidelijk te kiezen. Wel zijn er enkele designfeatures waar rekening mee gehouden kan worden om tot een derde finale variant van knoppen te komen.
 
