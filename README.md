@@ -146,7 +146,7 @@ De versie met de knoppen vooraan gaf de beste ervaring. Door de knoppen vanachte
 De knoppen zouden best iets groter zijn, zodat er minder gekeken moet worden en dat er minder vaak twee knoppen tegelijk ingedrukt worden.
 De knoppen moeten meer intuïtief zijn en feedback geven zodat de kinderen niet moeten kijken op welke knop ze duwen maar dat ze het kunnen voelen. Iets minder knoppen kunnen hier ook bij helpen.
 Het design moet ook zowel voor rechtshandigen als voor linkshandigen werken.
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.jpg" width= "30%"/></br><em> Figuur 8: gebruiker wave 1</em>
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.jpg" width= "30%"/></br><em> Figuur 9: gebruiker wave 2</em>
 </p>
 
 De resultaten van de interviews zijn vervat in enkele rapporten die terug te vinden zijn in volgende mapje definition.
