@@ -1,4 +1,4 @@
-<title>Nature Quest</title>
+# Nature Quest
 Een interactieve telescoop met augmented reality, ontworpen om kinderen tussen 6 en 11 jaar op een speelse wijze naar buiten te lokken, waar ze punten kunnen verdienen door natuurlijke objecten te scannen en zo hun virtuele avatar aanpassen, met als doel de relatie tussen kinderen en de natuur te versterken.  
 
 Projectteam: Guus Lecho; Lieselot Vindevogel 
