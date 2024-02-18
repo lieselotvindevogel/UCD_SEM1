@@ -10,7 +10,7 @@ Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voorn
 
 Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
 <p align="middle">
-<img src="https://github.com/lieselotvindevogel/images/blob/main/herosketch.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/foto%204.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
 </p>
 
 ## Introductie
