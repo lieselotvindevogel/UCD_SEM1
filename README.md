@@ -9,13 +9,13 @@ Projectteam: Guus Lecho; Lieselot Vindevogel
 Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voornamelijk als gevolg van de groeiende populariteit van smartphones, spelcomputers en tablets onder de jongere generaties. Deze bevinding is gebaseerd op deskresearch en onderzoek rechtstreeks bij de doelgroep. Ons concept is gericht op het aanpakken van deze trend en biedt een innovatieve benadering om kinderen op een speelse wijze naar buiten te lokken, waar ze de natuur kunnen verkennen. 
 
 Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
-<p> 
+<p align="middle">
 <img src="https://github.com/lieselotvindevogel/images/blob/main/herosketch.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
 </p>
 
 ## Introductie
 From screen time to green time. Een project om kinderen op een speelse manier weer naar buiten te brengen, midden in de natuur. Kunnen we technologie inzetten als een krachtige stimulans om jongeren aan te moedigen om meer buiten te spelen, extra plezier te beleven en tegelijkertijd kennis over de natuur op te doen? Het idee is om kinderen met behulp van een technologisch object de natuur in te lokken en hen een betoverende ervaring te bieden. 
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.jpg" width= "40%"/></br><em>Figuur 2: (Children are playing outside less and less | Adventure+, z.d.)</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.jpg" width= "40%"/></br><em>Figuur 2: (Children are playing outside less and less | Adventure+, z.d.)</em>
 </p>
 
 We richten ons specifiek op kinderen rond de leeftijd van 6 tot 11 jaar, omdat deze groep al voldoende bewustzijn heeft om zelf te ontdekken hoe ze met nieuwe technologieën kunnen omgaan. Het is van essentieel belang dat kinderen het object direct begrijpen en kunnen bedienen zodra ze het in handen krijgen. Ons doel is om kinderen op een interactieve wijze naar buiten te laten gaan, waarbij ze met behulp van technologie de wereld om hen heen kunnen verkennen. 
@@ -24,9 +24,9 @@ Met het finaal concept wordt er gestreefd om de natuur te verbinden met de digit
 
 ## Methodologie
 De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD process van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hang van het NPD process. 
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.png" width= "60%"/></br><em>Figuur 3: methodologie </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.png" width= "60%"/></br><em>Figuur 3: methodologie </em>
 </p>
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.png" width= "60%"/></br><em>Figuur 4: methodologie </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.png" width= "60%"/></br><em>Figuur 4: methodologie </em>
 </p>
 In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden zorgvuldig de behoeften en wensen van gebruikers onderzocht. Hiermee werd een gefundeerde “how might we” gevormd waarmee er in de volgende fase aan de slag wordt gegaan. Dit staat gelijk aan het doorlopen van fase 1-2-3 bij Roozenberg en Eekels. Fase 4 is het einde van de discovery fase. De eerste definitie van het probleem is herbekeken en tot een “how might we” gekomen.  
 
@@ -82,7 +82,9 @@ Als al het voorgaande gecombineerd wordt met het erop uit trekken, is te zien da
 Bij het favoriete speelgoed komen veel van deze avonturen terug maar dan digitaal op een scherm. Er wordt gekozen voor een scherm binnen uit gemakzucht omdat ze dan niets meer moeten maken en direct kunnen beginnen spelen. 
 Inhoudelijk komen enkele thema’s een paar keer terug: Survival (hut bouwen, beschermen, overleven,… ); Bouwen (Minecraft, kampen, ...); Op toch gaan (kamperen, rechtdoortocht, andere werelden,...) 
 
-De resultaten van de deskresearch en de focusgroep zijn vervat in enkele rapporten die terug te vinden zijn in volgende mapje discovery .  
+De resultaten van de deskresearch en de focusgroep zijn vervat in enkele rapporten die terug te vinden zijn in volgende mapje [discovery](https://ugentbe-my.sharepoint.com/:f:/g/personal/guus_lecho_ugent_be/EmB7dOgy2bxIj7EZAW5QhpEBqS87obiWapYT5C1aDM4AlQ?e=JEem2P).
+
+
 ### Conclusies & implicaties
 De implicaties van de benchmark voor het design zijn dat de terugkomende features zeker moeten geïntegreerd worden in het concept. Het zal waarschijnlijk niet mogelijk zijn om alle punten toe te passen in één concept, aangezien deze van verschillende categorieën speelgoed komen. Het zal toch aangeraden zijn om er zoveel als mogelijk rekening mee te houden. 
 Kinderen tussen 8 en 10 jaar hebben een intrinsieke behoefte aan avontuur en exploratie. Ze zijn buitengewoon creatief in hun benadering van avontuur, waarbij ze diverse elementen van de natuur integreren in hun spel. De connectie en de verbinding naar de natuur is dus reeds aanwezig. Dit is ook de reden waarom er voor deze leeftijd is gekozen.
@@ -103,7 +105,7 @@ De vorm van het product is onderzocht geweest aan de hand van twee waves van pro
 
 Wave 1 prototypes: test de algemene vorm van het product. (n=3) 
 Materiaal: 
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding4.png" width= "60%"/></br><em>Figuur 5: prototypes wave 1 </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding4.png" width= "60%"/></br><em>Figuur 5: prototypes wave 1 </em>
 </p>
 Methode: 
 Aan de hand van deze drie objecten wordt een gebruikers interview opgesteld om antwoord te krijgen op volgende onderzoeksvraag:
@@ -116,7 +118,7 @@ Welke vorm van het speelgoed werkt het beste?
 De gebruiker krijgt alle drie de versies te zien. Hij moet vervolgens een korte simulatie doorlopen met elke versie. De geïnterviewde kan dus zeer goed kiezen en vergelijken welke versie van het object hij het beste vindt.
 Wave 2 prototypes: kijkt naar de interactie met het product en hoe de gebruiker het scherm zal bedienen. (n=3)
 Materiaal:
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.png" width= "60%"/></br><em> Figuur 6: prototype wave 2 </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.png" width= "60%"/></br><em> Figuur 6: prototype wave 2 </em>
 </p>
 Methode:
 Aan de hand van deze drie objecten wordt een gebruikers interview opgesteld om antwoord te krijgen op volgende onderzoeksvragen:
@@ -133,12 +135,12 @@ Bij deze wave krijgt de gebruiker telkens maar één versie van de prototypes te
  <li>Gebruiker 3: Telescoop > verrekijker > vergrootglas</li>
 </ul>
 De volgorde van de vorm waren voor iedere gebruiker anders.
-<p><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 7: gebruiker wave 1</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 7: gebruiker wave 1</em>
 </p>
 <p>Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
 Bij de telescoop verstaan de kinderen rapper hoe ze met het voorwerp moeten omgaan. Dit kan ook liggen aan enige herkenning met het voorwerp, maar ook omdat het iets is wat eenvoudig te gebruiken valt. Het interesseert de kinderen zeker en vast dat de telescoop kan uitschuiven. Over het uitschuiven moet nog praktisch nagedacht worden omdat dit niet eenvoudig te realiseren valt met de elektronica die erin zal verwerkt moeten worden.
 </p>
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.jpg" width= "30%"/></br><em> Figuur 8: gebruiker wave 1</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.jpg" width= "30%"/></br><em> Figuur 8: gebruiker wave 1</em>
 </p>
 De resultaten van wave 2 zijn:
 De versie met de knoppen vooraan gaf de beste ervaring. Door de knoppen vanachter botste de gebruiker met zijn mouw tegen het gezicht. De variant van knoppen vooraan is minder duidelijk te kiezen. Wel zijn er enkele designfeatures waar rekening mee gehouden kan worden om tot een derde finale variant van knoppen te komen.
@@ -146,10 +148,10 @@ De versie met de knoppen vooraan gaf de beste ervaring. Door de knoppen vanachte
 De knoppen zouden best iets groter zijn, zodat er minder gekeken moet worden en dat er minder vaak twee knoppen tegelijk ingedrukt worden.
 De knoppen moeten meer intuïtief zijn en feedback geven zodat de kinderen niet moeten kijken op welke knop ze duwen maar dat ze het kunnen voelen. Iets minder knoppen kunnen hier ook bij helpen.
 Het design moet ook zowel voor rechtshandigen als voor linkshandigen werken.
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.jpg" width= "30%"/></br><em> Figuur 9: gebruiker wave 2</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.jpg" width= "30%"/></br><em> Figuur 9: gebruiker wave 2</em>
 </p>
 
-De resultaten van de interviews zijn vervat in enkele rapporten die terug te vinden zijn in volgende mapje definition.
+De resultaten van de interviews zijn vervat in enkele rapporten die terug te vinden zijn in volgende mapje [definition](https://ugentbe-my.sharepoint.com/:f:/g/personal/guus_lecho_ugent_be/EhM6lTMHFRVAvtqnNgkCbIIBnUWxCHP-qRoDDM2QlJ6DZQ?e=enKGHK).
 
 ### Conclusies & implicaties
 Dit onderzoek heeft geleid tot het identificeren van de richting waarin verder zal gegaan worden met het concept. 
@@ -159,15 +161,17 @@ De bekomen bevindingen zijn een leidraad voor het vervolg van het project, waarb
 
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+|Voorwerp|Naam|Beschrijving|Kostprijs|
+|:---:|:---:|:---:|:---:|
+|Camera|Pixy 2|Smart Vision Sensor: camera met image recognition|€ 96,74
+|Camera|Huskylens|Een gebruiksvriendelijke AI Machine Vision-sensor|€ 54,95|
+|Microcontroller|Arduino Uno||€28,53|
+|Batterij||Lithium Polymer Rechargeable Battery, 1.8Ah|€ 16,67|
+|LCD-scherm|Round display|Ronde IPS 3,3 cm (1,28") LCD-display met 4-wire SPI-interface|€14,99|
+|Proximity Sensor||Ambient Light en Proximity Sensor APDS-9930|€1,80|
+|Potentiometer||Seeed Studio Grove Rotary Angle Sensor, Arduino Compatible Board|€ 3,69|
+|Drukknoppen|APEM 4 Key|Illuminated Membrane Keypad|€ 25,85|
+
 
 ## Kritische reflectie
 Het eerste semester is succesvol verlopen, met enkele onverwachte uitdagingen die desondanks vakkundig zijn aangepakt. Over het geheel genomen zijn de doelen voor dit semester volledig gerealiseerd. Aan het einde van deze periode hebben we nu een solide prototype, dat als fundament zal dienen voor verdere ontwikkeling in het komende semester. Bij nadere beschouwing van de tijdslijn valt op dat we een stevige basis hebben gelegd met het huidige prototype, waarop we in het volgende semester uitgebreide iteraties zullen toepassen om het verder te verfijnen en verbeteren.
