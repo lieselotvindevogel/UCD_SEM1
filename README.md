@@ -162,15 +162,17 @@ Bij wave 2 kon er dan verder getest worden op de telescoop. De implicatie van de
 De bekomen bevindingen zijn een leidraad voor het vervolg van het project, waarbij het doel is om het gekozen concept verder te verfijnen en ontwikkelen op technologisch vlak.
 
 Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
-|cognitieve requirements|
-|:---:|
+
+|Cognitieve requirements|
+|:---|
 |Het product moet activiteiten bevatten die de besluitvorming en probleemoplossende vaardigheden van kinderen bevorderen, waardoor ze zelfstandigheid en autonomie ontwikkelen.|
 |Het product moet educatieve inhoud bevatten die aansluit bij de leerdoelen voor de leeftijdsgroep van de kinderen.|
 |Het product moet activiteiten bevatten die creativiteit stimuleren en kinderen aanmoedigen om op innovatieve manieren te leren.|
 |Aan de hand van hun eigen verbeelding moeten de kinderen het spel spelen.|
 
-|fysieke requirements|
-|:---:|
+
+|Fysieke requirements|
+|:---|
 |Het product moet een gestroomlijnd en ergonomisch ontwerp hebben om comfortabel gebruik te bevorderen zonder onnodige omvang.|
 |Het product moet compact genoeg zijn om comfortabel te worden vastgehouden door kinderen van 10 jaar oud, zonder dat het te groot of te zwaar aanvoelt.|
 |Het product moet intuïtieve fysieke knoppen hebben voor navigatie en interactie, waardoor kinderen gemakkelijk kunnen communiceren met het product.|
