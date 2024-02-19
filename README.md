@@ -10,7 +10,7 @@ Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voorn
 
 Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
 
-De volledige context van het ontwerp staat nog niet volledig vast. Het ontwerp zou kunnen worden toegepast in dierentuinen om bezoekers meer te laten ontdekken over specifieke dieren. Daarom zal het hoogstwaarschijnlijk worden uitbesteed aan bedrijven waar zo'n zaken als nuttig leerdoel kan gebruikt worden, zoals pretparken en dierentuinen. De lay-out zal aanpasbaar zijn om tegemoet te komen aan hun specifieke doelstellingen om de kinderen iets bij te leren. 
+De volledige context van het ontwerp staat nog niet volledig vast. Het ontwerp zou kunnen worden toegepast in dierentuinen om bezoekers meer te laten ontdekken over specifieke dieren. Daarom zal het hoogstwaarschijnlijk worden uitbesteed aan bedrijven waar zo'n zaken als nuttig leerdoel kan gebruikt worden, zoals pretparken, schoolcontext, parken en dierentuinen. De lay-out zal aanpasbaar zijn om tegemoet te komen aan hun specifieke doelstellingen om de kinderen iets bij te leren. 
 <p align="middle">
 <img src="https://github.com/lieselotvindevogel/images/blob/main/foto%204.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
 </p>
@@ -179,6 +179,9 @@ Bij al de bekomen resultaten is ook gekeken naar hun effect op de design require
 |Het product moet intuïtief en gemakkelijk te begrijpen zijn, zodat het kind direct weet hoe het te gebruiken zonder complexe instructies. De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
 
 ## Bill of materials
+In eerste instantie zal het product verder ontwikkeld worden met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen.
+Verdere prototyping kan dan gebeuren door zelf arduino componenten samen te stellen in het product.
+
 |Voorwerp|Naam|Beschrijving|Kostprijs|
 |:---:|:---:|:---:|:---:|
 |Camera|Pixy 2|Smart Vision Sensor: camera met image recognition|€ 96,74
