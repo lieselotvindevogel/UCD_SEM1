@@ -168,20 +168,23 @@ Bij al de bekomen resultaten is ook gekeken naar hun effect op de design require
 
 |Cognitieve requirements|
 |:---|
-|Het product moet activiteiten bevatten die de besluitvorming en probleemoplossende vaardigheden van kinderen bevorderen, waardoor ze zelfstandigheid en autonomie ontwikkelen.|
+|Het product moet activiteiten bevatten die de besluitvorming en probleemoplossende vaardigheden van kinderen bevorderen.|
 |Het product moet educatieve inhoud bevatten die aansluit bij de leerdoelen voor de leeftijdsgroep van de kinderen.|
-|Het product moet activiteiten bevatten die creativiteit stimuleren en kinderen aanmoedigen om op innovatieve manieren te leren.|
+|Het product moet activiteiten bevatten die creativiteit stimuleren.|
+|Op een innovatieve manier moeten de kinderen iets leren.|
 |Aan de hand van hun eigen verbeelding moeten de kinderen het spel spelen.|
 
 
 |Fysieke requirements|
 |:---|
-|Het product moet een gestroomlijnd en ergonomisch ontwerp hebben om comfortabel gebruik te bevorderen zonder onnodige omvang.|
-|Het product moet compact genoeg zijn om comfortabel te worden vastgehouden door kinderen van 10 jaar oud, zonder dat het te groot of te zwaar aanvoelt.|
-|Het product moet intuïtieve fysieke knoppen hebben voor navigatie en interactie, waardoor kinderen gemakkelijk kunnen communiceren met het product.|
-|De verzamelde gegevens moeten worden bijgehouden op aparte app.|
-|Het product moet alle technische componenten intern bevatten om een gestroomlijnd ontwerp te behouden, zonder afbreuk te doen aan de draagbaarheid of gebruiksvriendelijkheid.|
-|Het product moet intuïtief en gemakkelijk te begrijpen zijn, zodat het kind direct weet hoe het te gebruiken zonder complexe instructies. De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
+|Antropometrisch|Het product moet een ergonomisch ontwerp hebben om comfortabel te gebruiken zijn.|
+||Het gewicht van het product mag niet te zwaar aanvoelen voor lang gebruik.|
+||Het product moet alle technische componenten intern bevatten om een gestroomlijnd ontwerp te behouden.|
+|interactie|Het product moet fysieke knoppen hebben voor navigatie en interactie.|
+||De verzamelde gegevens moeten worden bijgehouden op aparte app.|
+||Het product moet intuïtief en gemakkelijk te begrijpen zijn, zodat het kind direct weet hoe het te gebruiken zonder complexe instructies.| 
+||De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
+||Er moet mogelijkheid zijn voor fysieke verandering en interactie met het product.|
 
 ## Bill of materials
 In eerste instantie zal het product verder ontwikkeld worden met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen.
