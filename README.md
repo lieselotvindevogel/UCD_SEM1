@@ -30,7 +30,10 @@ De methodes die gevolgd worden voor dit project zijn de triple diamond van Zende
 </p>
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.png" width= "60%"/></br><em>Figuur 4: methodologie </em>
 </p>
-In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden zorgvuldig de behoeften en wensen van gebruikers onderzocht. Hiermee werd een gefundeerde “how might we” gevormd waarmee er in de volgende fase aan de slag wordt gegaan. Dit staat gelijk aan het doorlopen van fase 1-2-3 bij Roozenberg en Eekels. Fase 4 is het einde van de discovery fase. De eerste definitie van het probleem is herbekeken en tot een “how might we” gekomen.  
+In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden zorgvuldig de behoeften en wensen van gebruikers onderzocht. Hiermee werd een gefundeerde “how might we” gevormd waarmee er in de volgende fase aan de slag wordt gegaan. Dit staat gelijk aan het doorlopen van fase 1-2-3 bij Roozenberg en Eekels. Fase 4 is het einde van de discovery fase. De eerste definitie van het probleem is herbekeken en tot een “how might we” gekomen. 
+<p>
+ 
+</p>
 <blockquote>
 “Hoe kunnen we schoolkinderen (6-11j) avontuur en ontdekking in de natuur laten beleven met behulp van een slim speelgoed?” 
 </blockquote>
