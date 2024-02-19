@@ -175,12 +175,12 @@ Bij al de bekomen resultaten is ook gekeken naar hun effect op de design require
 |Aan de hand van hun eigen verbeelding moeten de kinderen het spel spelen.|
 
 
-|Fysieke requirements|
-|:---|
+||Fysieke requirements|
+|:---:|:---|
 |Antropometrisch|Het product moet een ergonomisch ontwerp hebben om comfortabel te gebruiken zijn.|
 ||Het gewicht van het product mag niet te zwaar aanvoelen voor lang gebruik.|
 ||Het product moet alle technische componenten intern bevatten om een gestroomlijnd ontwerp te behouden.|
-|interactie|Het product moet fysieke knoppen hebben voor navigatie en interactie.|
+|Interactie|Het product moet fysieke knoppen hebben voor navigatie en interactie.|
 ||De verzamelde gegevens moeten worden bijgehouden op aparte app.|
 ||Het product moet intuïtief en gemakkelijk te begrijpen zijn, zodat het kind direct weet hoe het te gebruiken zonder complexe instructies.| 
 ||De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
