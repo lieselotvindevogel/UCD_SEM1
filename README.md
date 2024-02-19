@@ -20,7 +20,7 @@ From screen time to green time. Een project om kinderen op een speelse manier we
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.jpg" width= "40%"/></br><em>Figuur 2: (Children are playing outside less and less | Adventure+, z.d.)</em>
 </p>
 
-We richten ons specifiek op kinderen rond de leeftijd van 6 tot 11 jaar, omdat deze groep al voldoende bewustzijn heeft om zelf te ontdekken hoe ze met nieuwe technologieën kunnen omgaan. Het is van essentieel belang dat kinderen het object direct begrijpen en kunnen bedienen zodra ze het in handen krijgen. Ons doel is om kinderen op een interactieve wijze naar buiten te laten gaan, waarbij ze met behulp van technologie de wereld om hen heen kunnen verkennen. 
+We richten ons specifiek op kinderen rond de leeftijd van 9 tot 11 jaar, omdat deze groep al voldoende bewustzijn heeft om zelf te ontdekken hoe ze met nieuwe technologieën kunnen omgaan. Het is van essentieel belang dat kinderen het object direct begrijpen en kunnen bedienen zodra ze het in handen krijgen. Ons doel is om kinderen op een interactieve wijze naar buiten te laten gaan, waarbij ze met behulp van technologie de wereld om hen heen kunnen verkennen. 
 
 Met het finaal concept wordt er gestreefd om de natuur te verbinden met de digitale wereld op een manier die boeiend en educatief is voor kinderen. Door middel van een innovatief technologisch apparaat willen we niet alleen de barrière tussen scherm en natuur doorbreken, maar ook een positieve impuls geven aan de relatie tussen kinderen en hun natuurlijke omgeving. Het project streeft ernaar om buiten spelen aantrekkelijker te maken en tegelijkertijd een waardevolle en leerzame ervaring te bieden. 
 
@@ -31,9 +31,9 @@ De methodes die gevolgd worden voor dit project zijn de triple diamond van Zende
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.png" width= "60%"/></br><em>Figuur 4: methodologie </em>
 </p>
 In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden zorgvuldig de behoeften en wensen van gebruikers onderzocht. Hiermee werd een gefundeerde “how might we” gevormd waarmee er in de volgende fase aan de slag wordt gegaan. Dit staat gelijk aan het doorlopen van fase 1-2-3 bij Roozenberg en Eekels. Fase 4 is het einde van de discovery fase. De eerste definitie van het probleem is herbekeken en tot een “how might we” gekomen.  
-
+<blockquote>
 “Hoe kunnen we schoolkinderen (6-11j) avontuur en ontdekking in de natuur laten beleven met behulp van een slim speelgoed?” 
-
+</blockquote>
 De discovery fase resulteerde in een probleem, dat vervolgens in de definition fase nader werd uitgewerkt. Uit deze verdieping is een concept met verschillende prototypes ontstaan, elk met een specifieke rol in ons proces. Om het eerste semester af te ronden, is er na een gebruikerstoetsing een definitieve vorm van het concept gekozen. In het tweede semester zal er volop gewerkt worden aan de verdere ontwikkeling en verfijning van dit concept. 
 
 Voor de evaluatie van verschillende prototypes tijdens interviews werd de benadering van Activity-Centered Design toegepast. Deze methode richtte zich op het observeren van gebruikershandelingen en hun interactie met de ontwerpen. Deze aanpak werd gekozen vanwege de uitdaging bij kinderen om expliciet te benoemen hoe ze met iets omgaan. Door te focussen op hun handelingen konden we een correcter beeld krijgen van hun ervaringen en meningen betreffende de prototypes.  
@@ -161,6 +161,22 @@ Wave 1 heeft de vorm van het object definitief vastgelegd op een telescoop. Dit 
 Bij wave 2 kon er dan verder getest worden op de telescoop. De implicatie van deze wave op het design is dat de knoppen vooraan op het speelgoed moeten zitten. De variant van knoppen ligt niet vast door dit onderzoek. In het tweede semester zullen deze nog verder bestudeerd moeten worden en zeker ook in combinatie met de uitwerking van het display en spel. Er zijn wel enkele vereisten voor de knoppen bevonden waar wel rekening mee moet gehouden worden in verdere prototypes.
 De bekomen bevindingen zijn een leidraad voor het vervolg van het project, waarbij het doel is om het gekozen concept verder te verfijnen en ontwikkelen op technologisch vlak.
 
+Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
+|cognitieve requirements|
+|:---:|
+|Het product moet activiteiten bevatten die de besluitvorming en probleemoplossende vaardigheden van kinderen bevorderen, waardoor ze zelfstandigheid en autonomie ontwikkelen.|
+|Het product moet educatieve inhoud bevatten die aansluit bij de leerdoelen voor de leeftijdsgroep van de kinderen.|
+|Het product moet activiteiten bevatten die creativiteit stimuleren en kinderen aanmoedigen om op innovatieve manieren te leren.|
+|Aan de hand van hun eigen verbeelding moeten de kinderen het spel spelen.|
+
+|fysieke requirements|
+|:---:|
+|Het product moet een gestroomlijnd en ergonomisch ontwerp hebben om comfortabel gebruik te bevorderen zonder onnodige omvang.|
+|Het product moet compact genoeg zijn om comfortabel te worden vastgehouden door kinderen van 10 jaar oud, zonder dat het te groot of te zwaar aanvoelt.|
+|Het product moet intuïtieve fysieke knoppen hebben voor navigatie en interactie, waardoor kinderen gemakkelijk kunnen communiceren met het product.|
+|De verzamelde gegevens moeten worden bijgehouden op aparte app.|
+|Het product moet alle technische componenten intern bevatten om een gestroomlijnd ontwerp te behouden, zonder afbreuk te doen aan de draagbaarheid of gebruiksvriendelijkheid.|
+|Het product moet intuïtief en gemakkelijk te begrijpen zijn, zodat het kind direct weet hoe het te gebruiken zonder complexe instructies. De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
 
 ## Bill of materials
 |Voorwerp|Naam|Beschrijving|Kostprijs|
