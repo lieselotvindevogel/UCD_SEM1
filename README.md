@@ -163,7 +163,16 @@ Dit onderzoek heeft geleid tot het identificeren van de richting waarin verder z
 Wave 1 heeft de vorm van het object definitief vastgelegd op een telescoop. Dit was het meest favoriete object. Er zijn ook enkele belangrijke aspecten die bij het eindproduct aanwezig moeten zijn, namelijk: herkenning, speelsheid en goede kwaliteit.
 Bij wave 2 kon er dan verder getest worden op de telescoop. De implicatie van deze wave op het design is dat de knoppen vooraan op het speelgoed moeten zitten. De variant van knoppen ligt niet vast door dit onderzoek. In het tweede semester zullen deze nog verder bestudeerd moeten worden en zeker ook in combinatie met de uitwerking van het display en spel. Er zijn wel enkele vereisten voor de knoppen bevonden waar wel rekening mee moet gehouden worden in verdere prototypes.
 De bekomen bevindingen zijn een leidraad voor het vervolg van het project, waarbij het doel is om het gekozen concept verder te verfijnen en ontwikkelen op technologisch vlak.
+## body
+### antropometrie 
+Het ontwerp is zorgvuldig geanalyseerd met behulp van antropometrische gegevens, waarbij cruciale parameters zoals de armlengte, gripomtrek en de gesloten omtrek van duim tot wijsvinger zijn meegenomen. Deze analyse heeft geleid tot het vaststellen van de optimale diameter van de telescoop, gericht op het maximaliseren van gebruiksgemak en comfort voor de gebruikers. De armlengte heeft invloed op de totale lengte van de telescoop. De verkregen waarden zijn vervolgens geïntegreerd in gebruikerstesten om het ontwerp nauwkeurig af te stemmen op de behoeften van kinderen. 
 
+Het gekozen design type, "Design for the small" (P5), is een bewuste en doordachte beslissing geweest. Dit ontwerpprincipe benadrukt het belang van het richten op de kleinste gebruiker, waardoor het ontwerp niet alleen geschikt is voor kinderen met een kleinere gestalte, maar ook voor grotere kinderen. Door te beginnen met het ontwerpen voor de kleinste persoon wordt gegarandeerd dat het product voor een breed scala aan gebruikers geschikt zal zijn. 
+
+Met deze analyse zijn er enkele prototypes gemaakt die de gegevens verwerken. 
+
+
+## design requirements 
 Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
 
 |Cognitieve requirements|
