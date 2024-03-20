@@ -171,7 +171,7 @@ Het gekozen design type, "Design for the small" (P5), is een bewuste en doordach
 
 Met deze analyse zijn er enkele prototypes gemaakt die de gegevens verwerken. 
 ### Materiaal
-
+<img src="https://github.com/lieselotvindevogel/images/blob/main/materiaal%20-%20test%201.jpg" width= "50%"/></br><em> Figuur 10: testmateriaal </em>
  
 
 
