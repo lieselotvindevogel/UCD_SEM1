@@ -170,6 +170,45 @@ Het ontwerp is zorgvuldig geanalyseerd met behulp van antropometrische gegevens,
 Het gekozen design type, "Design for the small" (P5), is een bewuste en doordachte beslissing geweest. Dit ontwerpprincipe benadrukt het belang van het richten op de kleinste gebruiker, waardoor het ontwerp niet alleen geschikt is voor kinderen met een kleinere gestalte, maar ook voor grotere kinderen. Door te beginnen met het ontwerpen voor de kleinste persoon wordt gegarandeerd dat het product voor een breed scala aan gebruikers geschikt zal zijn. 
 
 Met deze analyse zijn er enkele prototypes gemaakt die de gegevens verwerken. 
+### Materiaal
+
+ 
+
+
+### Motivatie
+We willen weten welke diameter van de buis en de totale lengte de gebruiker het leukste vindt en waarom. Voor deze reden laten we elke gebruiker interageren met elk de verschillende diameters. Zo kan de respondent goed vergelijken tussen de verschillende stukken en aantonen waarom die voor het ene kiest en niet voor het andere.
+
+### Discussion Guide
+Uitleg van het spel
+Wij maken een spel waarmee je op zoek kan gaan in de dierentuin naar verschillende dieren. Je moet deze dieren dan zoeken en dan kan je deze digitaal verzamelen door ernaar te kijken en zo kan je verschillende missies volbrengen door allemaal dingen omtrent het dier te verzamelen. Met de gevonden gegevens zal er een eindspel gemaakt worden. 
+
+### De 3 verschillende diameters testen 
+De telescoop kan uitgeschoven worden, maar wat is nu juist de aangenaamste diameter van het eerste stuk. Deze 3 diameters zijn 74-50 en 40 centimeter. Nu wordt gevraagd welke het beste aanvoelt?
+
+Testpersoon 1 vindt de 2e  afmeting van de buis het beste. De 1e  voelt te groot aan en de 3e  is dan weer te klein. De 2e  ligt perfect in de hand. Hij was wel zeer enthousiast om direct erdoor te kijken en op zoektocht te gaan.
+
+Testpersoon 2 verkiest ook de 2e  tegenover de andere diameters. Toen de 3e buis werd voorgesteld was er geen twijfel meer dat hij de 2e  het beste vindt. Toen er naar de reden werd gevraagd was het antwoord direct dat de 1e buis te groot was voor zijn hand en de 3e dan weer te klein.  
+
+Testpersoon 3 verkiest de 1e  grote buis tegenover de andere diameters. Dit kan te verklaren zijn doordat testpersoon 3 haar handen groter was dan de andere testpersonen. Het kan ook te verklaren zijn omdat ze al 11 was en de andere testpersonen 9/10 jaar oud. De tweede vond de testpersoon ook goed, maar toch ging de voorkeur naar 1. De derde was te klein, dit is zelf ook gecapteerd geweest tijdens het interview.
+
+Testpersoon 4 verkiest de …
+De totale lengte testen 
+Voor de eerste persoon maakte het niet veel uit, maar uiteindelijk heeft hij toch een antwoord gegeven. De totale lengte van de schuifbuis vond hij goed genoeg. 
+
+De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaande foto)
+
+De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verschoof de buis tot aan de stop en vond dit perfect. 
+
+
+De vierde persoon …
+
+
+Deze test was niet eenvoudig te bepalen want voor de kinderen doet de lengte er niet echt toe. Ze vonden het allemaal goed wat er gedaan werd. 
+### Wat denken ze van het spel
+Om toch het nut van dit onderzoek te bekijken is er aan de kinderen zelf en aan de ouders eens gevraagd wat ze van het concept vonden. 
+De ouders zagen het zeker en vast als een nuttig project. De kinderen waren helemaal mee in het verhaal en wilden zeker en vast dit in de toekomst spelen.
+Ze wilden al op avontuur vertrekken.
+
 
 
 ## Design requirements 
