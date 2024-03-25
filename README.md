@@ -192,13 +192,13 @@ Testpersoon 2 verkiest ook de 2e  tegenover de andere diameters. Toen de 3e buis
 Testpersoon 3 verkiest de 1e  grote buis tegenover de andere diameters. Dit kan te verklaren zijn doordat testpersoon 3 haar handen groter was dan de andere testpersonen. Het kan ook te verklaren zijn omdat ze al 11 was en de andere testpersonen 9/10 jaar oud. De tweede vond de testpersoon ook goed, maar toch ging de voorkeur naar 1. De derde was te klein, dit is zelf ook gecapteerd geweest tijdens het interview.
 
 
-De totale lengte testen 
+### De totale lengte testen 
 Voor de eerste persoon maakte het niet veel uit, maar uiteindelijk heeft hij toch een antwoord gegeven. De totale lengte van de schuifbuis vond hij goed genoeg. 
-
+<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%201%20-%20lengte.jpg" width= "50%"/></br><em> Figuur 11: totale lengte persoon 1 </em>
 De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaande foto)
-
+<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 2 </em>
 De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verschoof de buis tot aan de stop en vond dit perfect. 
-
+<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon3%20-%20lengte.jpeg" width= "50%"/></br><em> Figuur 13: totale lengte persoon 3 </em>
 
 
 
