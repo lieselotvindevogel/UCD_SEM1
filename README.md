@@ -196,7 +196,7 @@ Testpersoon 3 verkiest de 1e  grote buis tegenover de andere diameters. Dit kan 
 Voor de eerste persoon maakte het niet veel uit, maar uiteindelijk heeft hij toch een antwoord gegeven. De totale lengte van de schuifbuis vond hij goed genoeg. 
 <p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%201%20-%20lengte.jpg" width= "50%"/></br><em> Figuur 11: totale lengte persoon 1 </em></p>
 De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaande foto)
-<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 2 </em>
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 2 </em></p>
 De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verschoof de buis tot aan de stop en vond dit perfect. 
 <img src="" width= "50%"/></br><em> Figuur 13: totale lengte persoon 3 </em>
 
