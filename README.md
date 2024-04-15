@@ -266,6 +266,7 @@ Doordat de interviews telkens op de Chiro zijn uitgevoerd is de steekproef vrij 
 
 9: RS PRO, 3.7V, 53.5 x 35 x 10.4 mm, Lithium Polymer Rechargeable Battery, 1.8Ah | RS. (z.d.). https://benl.rs-online.com/web/p/speciality-size-rechargeable-batteries/1449405?cm_mmc=BE-PLA-DS3A-_-google-_-CSS_BE_NL_Batteries_%26_Chargers_Whoop+(2)-_-(BE:Whoop!)+Speciality+Size+Rechargeable+Batteries-_-1449405&matchtype=&aud-827186183686:pla-333331382340&gad_source=1&acs_info=ZmluYWxfdXJsOiAiaHR0cHM6Ly9iZW5sLnJzLW9ubGluZS5jb20vd2ViL3Avc3BlY2lhbGl0eS1zaXplLXJlY2hhcmdlYWJsZS1iYXR0ZXJpZXMvMTQ0OTQwNS8iCg&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6-u-QNfFIACUmfxpA5yT2V7KC2Jhkl27Oaw9mexTtj6QPQNqLMbelMaAgYKEALw_wcB&gclsrc=aw.ds
 
+10: The Zendesk triple diamond. Mike Chen. (z.d.). https://medium.com/zendesk-creative-blog/the-zendesk-triple-diamond-process-fd857a11c179
 
 
 ## Bijlagen
