@@ -24,7 +24,7 @@ Met het finaal concept wordt er gestreefd om de natuur te verbinden met de digit
 
 ## Methodologie
 De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD process van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. Het tweede semester gaat over het prototype verder uitwerken met verschillende iteratie, de development fase, het laatste deel van de triple diamond.  De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hang van het NPD process. 
-<p align="middle"><img src="[https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.png](https://github.com/lieselotvindevogel/images/blob/main/triple%20diamong.png)" width= "60%"/></br><em>Figuur 3: triple diamond methodologie </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/triple%20diamong.png" width= "60%"/></br><em>Figuur 3: triple diamond methodologie </em>
 </p>
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.png" width= "60%"/></br><em>Figuur 4: methodologie </em>
 </p>
