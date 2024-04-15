@@ -218,6 +218,8 @@ Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de expe
  <li>Flexibiliteit en efficiëntie in gebruik</li>
  <li>Eenvoudige iconen/ handeling</li>
 </ul>
+Om zo’n goed mogelijke feedback te krijgen van de medestudenten worden de reviews niet samen afgelegd. De data wordt opgenomen door notities te maken en observaties te maken. Na het interview worden de observaties opgeschreven zodat deze in het rapport opgenomen kunnen worden. Achteraf wordt de data geanalyseerd door een antwoord te formuleren op de onderzoeksvragen door de thema’s die besproken zijn in het interview te gebruiken.  
+Aan de hand van een figma template zullen de experts feedback geven op het ontwerp. Op dit bestand staan de heuristieken van Nielsen die van belang hebben op deze review en nog enkele andere belangrijke onderwerpen waar de experts op moeten letten. De template van die gebruikt is, is terug te vinden op onedrive [mind](https://ugentbe-my.sharepoint.com/personal/guus_lecho_ugent_be/_layouts/15/onedrive.aspx?ct=1713174854238&or=OWA%2DNT%2DMail&cid=9d93051d%2D3a3b%2Dddc3%2De8e8%2Dfca780cd7628&fromShare=true&ga=1&WSL=1&id=%2Fpersonal%2Fguus%5Flecho%5Fugent%5Fbe%2FDocuments%2FIndustrieel%2FGebruiksgericht%20ontwerpen%2FOpdracht%20gebruiksgericht%20ontwerpen%2FD%20Sem%202%2FMind).
 
 #### Usability test 
 
