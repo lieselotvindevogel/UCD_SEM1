@@ -23,7 +23,7 @@ We richten ons specifiek op kinderen rond de leeftijd van 9 tot 11 jaar, omdat d
 Met het finaal concept wordt er gestreefd om de natuur te verbinden met de digitale wereld op een manier die boeiend en educatief is voor kinderen. Door middel van een innovatief technologisch apparaat willen we niet alleen de barrière tussen scherm en natuur doorbreken, maar ook een positieve impuls geven aan de relatie tussen kinderen en hun natuurlijke omgeving. Het project streeft ernaar om buiten spelen aantrekkelijker te maken en tegelijkertijd een waardevolle en leerzame ervaring te bieden. 
 
 ## Methodologie
-De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD process van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hang van het NPD process. 
+De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD process van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. Het tweede semester gaat over het prototype verder uitwerken met verschillende iteratie, de development fase, het laatste deel van de triple diamond.  De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hang van het NPD process. 
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.png" width= "60%"/></br><em>Figuur 3: methodologie </em>
 </p>
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.png" width= "60%"/></br><em>Figuur 4: methodologie </em>
@@ -35,13 +35,12 @@ In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden
 <blockquote>
 “Hoe kunnen we schoolkinderen (6-11j) avontuur en ontdekking in de natuur laten beleven met behulp van een slim speelgoed?” 
 </blockquote>
-De discovery fase resulteerde in een probleem, dat vervolgens in de definition fase nader werd uitgewerkt. Uit deze verdieping is een concept met verschillende prototypes ontstaan, elk met een specifieke rol in ons proces. Om het eerste semester af te ronden, is er na een gebruikerstoetsing een definitieve vorm van het concept gekozen. In het tweede semester is er volop gewerkt aan de verdere ontwikkeling en verfijning van dit concept. 
+De discovery fase resulteerde in een probleem, dat vervolgens in de definition fase nader werd uitgewerkt. Uit deze verdieping is een concept met verschillende prototypes ontstaan, elk met een specifieke rol in ons proces. Om het eerste semester af te ronden, is er na een gebruikerstoetsing een definitieve vorm van het concept gekozen. In het tweede semester is er volop gewerkt aan de verdere ontwikkeling en verfijning van dit concept. Dit komt overeen met de development fase van de triple diamond. In deze fase zijn er verschillende iteratie ontwerpt en geëvalueerd met de gebruiker. 
 
 Voor de evaluatie van verschillende prototypes tijdens interviews werd de benadering van Activity-Centered Design toegepast. Deze methode richtte zich op het observeren van gebruikershandelingen en hun interactie met de ontwerpen. Deze aanpak werd gekozen vanwege de uitdaging bij kinderen om expliciet te benoemen hoe ze met iets omgaan. Door te focussen op hun handelingen konden we een correcter beeld krijgen van hun ervaringen en meningen betreffende de prototypes.  
 
-Na iedere fase van onderzoek en prototypes is er een grondige analyse gemaakt van de resultaten. Deze zijn terug te vinden in de OneDrive (Opdracht gebruiksgericht ontwerpen) ieder onder hun eigen fase. De bevindingen worden meegenomen in doorlopen van volgende fasen tot aan het eindconcept. 
-
-Het tweede semester is gestart met de ... fase 
+Na iedere fase van onderzoek en prototypes is er een grondige analyse gemaakt van de resultaten. Deze zijn terug te vinden in de OneDrive (Opdracht gebruiksgericht ontwerpen) ieder onder hun eigen fase. De bevindingen worden meegenomen in doorlopen van volgende fasen tot aan het eindconcept. Het eindconcept omvat alle bevindingen die gedurende het jaar zijn verzameld. Al deze bevindingen zijn samengevat in een tabel met requirements, deze tabel is terug te vinden op het einde van deze bundel. 
+ 
 ## Discovery
 ### Doelstellingen
 Wat willen we juist bereiken in de discovery fase? Het doel is om te onderzoeken hoe kinderen omgaan met de natuur. Is het mogelijk om technologie als stimulans te gebruiken om kinderen meer op een speelse manier naar buiten te doen gaan? Hoeveel tijd brengen kinderen door binnen? We trekken het probleem open en kijken naar het brede aspect ervan. We willen inzichten verkrijgen over hoe kinderen de natuur nu ervaren. Hiernaast willen we ook te weten komen welk speelgoed kinderen momenteel het meest bezig houdt en waarom dit zo is. 
@@ -163,26 +162,27 @@ Dit onderzoek heeft geleid tot het identificeren van de richting waarin verder z
 Wave 1 heeft de vorm van het object definitief vastgelegd op een telescoop. Dit was het meest favoriete object. Er zijn ook enkele belangrijke aspecten die bij het eindproduct aanwezig moeten zijn, namelijk: herkenning, speelsheid en goede kwaliteit.
 Bij wave 2 kon er dan verder getest worden op de telescoop. De implicatie van deze wave op het design is dat de knoppen vooraan op het speelgoed moeten zitten. De variant van knoppen ligt niet vast door dit onderzoek. In het tweede semester zullen deze nog verder bestudeerd moeten worden en zeker ook in combinatie met de uitwerking van het display en spel. Er zijn wel enkele vereisten voor de knoppen bevonden waar wel rekening mee moet gehouden worden in verdere prototypes.
 De bekomen bevindingen zijn een leidraad voor het vervolg van het project, waarbij het doel is om het gekozen concept verder te verfijnen en ontwikkelen op technologisch vlak.
-## Body
-### Antropometrie 
+## Development
+### Body
+#### Antropometrie 
 Het ontwerp is zorgvuldig geanalyseerd met behulp van antropometrische gegevens, waarbij cruciale parameters zoals de armlengte, gripomtrek en de gesloten omtrek van duim tot wijsvinger zijn meegenomen. Deze analyse heeft geleid tot het vaststellen van de optimale diameter van de telescoop, gericht op het maximaliseren van gebruiksgemak en comfort voor de gebruikers. De armlengte heeft invloed op de totale lengte van de telescoop. De verkregen waarden zijn vervolgens geïntegreerd in gebruikerstesten om het ontwerp nauwkeurig af te stemmen op de behoeften van kinderen. 
 
 Het gekozen design type, "Design for the small" (P5), is een bewuste en doordachte beslissing geweest. Dit ontwerpprincipe benadrukt het belang van het richten op de kleinste gebruiker, waardoor het ontwerp niet alleen geschikt is voor kinderen met een kleinere gestalte, maar ook voor grotere kinderen. Door te beginnen met het ontwerpen voor de kleinste persoon wordt gegarandeerd dat het product voor een breed scala aan gebruikers geschikt zal zijn. 
 
 Met deze analyse zijn er enkele prototypes gemaakt die de gegevens verwerken. 
-### Materiaal
+#### Materiaal
 <img src="https://github.com/lieselotvindevogel/images/blob/main/materiaal%20-%20test%201.jpg" width= "50%"/></br><em> Figuur 10: testmateriaal </em>
  
 
 
-### Motivatie
+#### Motivatie
 We willen weten welke diameter van de buis en de totale lengte de gebruiker het leukste vindt en waarom. Voor deze reden laten we elke gebruiker interageren met elk de verschillende diameters. Zo kan de respondent goed vergelijken tussen de verschillende stukken en aantonen waarom die voor het ene kiest en niet voor het andere.
 
-### Discussion Guide
+#### Discussion Guide
 Uitleg van het spel
 Wij maken een spel waarmee je op zoek kan gaan in de dierentuin naar verschillende dieren. Je moet deze dieren dan zoeken en dan kan je deze digitaal verzamelen door ernaar te kijken en zo kan je verschillende missies volbrengen door allemaal dingen omtrent het dier te verzamelen. Met de gevonden gegevens zal er een eindspel gemaakt worden. 
 
-### De 3 verschillende diameters testen 
+#### De 3 verschillende diameters testen 
 De telescoop kan uitgeschoven worden, maar wat is nu juist de aangenaamste diameter van het eerste stuk. Deze 3 diameters zijn 74-50 en 40 centimeter. Nu wordt gevraagd welke het beste aanvoelt?
 
 Testpersoon 1 vindt de 2e  afmeting van de buis het beste. De 1e  voelt te groot aan en de 3e  is dan weer te klein. De 2e  ligt perfect in de hand. Hij was wel zeer enthousiast om direct erdoor te kijken en op zoektocht te gaan.
@@ -192,7 +192,7 @@ Testpersoon 2 verkiest ook de 2e  tegenover de andere diameters. Toen de 3e buis
 Testpersoon 3 verkiest de 1e  grote buis tegenover de andere diameters. Dit kan te verklaren zijn doordat testpersoon 3 haar handen groter was dan de andere testpersonen. Het kan ook te verklaren zijn omdat ze al 11 was en de andere testpersonen 9/10 jaar oud. De tweede vond de testpersoon ook goed, maar toch ging de voorkeur naar 1. De derde was te klein, dit is zelf ook gecapteerd geweest tijdens het interview.
 
 
-### De totale lengte testen 
+#### De totale lengte testen 
 Voor de eerste persoon maakte het niet veel uit, maar uiteindelijk heeft hij toch een antwoord gegeven. De totale lengte van de schuifbuis vond hij goed genoeg. 
 <p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%201%20-%20lengte.jpg" width= "50%"/></br><em> Figuur 11: totale lengte persoon 1 </em></p>
 De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaande foto)
@@ -204,14 +204,14 @@ De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verscho
 
 
 Deze test was niet eenvoudig te bepalen want voor de kinderen doet de lengte er niet echt toe. Ze vonden het allemaal goed wat er gedaan werd. 
-### Wat denken ze van het spel
+#### Wat denken ze van het spel
 Om toch het nut van dit onderzoek te bekijken is er aan de kinderen zelf en aan de ouders eens gevraagd wat ze van het concept vonden. 
 De ouders zagen het zeker en vast als een nuttig project. De kinderen waren helemaal mee in het verhaal en wilden zeker en vast dit in de toekomst spelen.
 Ze wilden al op avontuur vertrekken.
 
 
 
-## Design requirements 
+### Design requirements 
 Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
 
 |Cognitieve requirements|
@@ -234,27 +234,16 @@ Bij al de bekomen resultaten is ook gekeken naar hun effect op de design require
 ||De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
 ||Er moet mogelijkheid zijn voor fysieke verandering en interactie met het product.|
 
-## Bill of materials
-In eerste instantie zal het product verder ontwikkeld worden met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen.
-Verdere prototyping kan dan gebeuren door zelf arduino componenten samen te stellen in het product.
-
-|Voorwerp|Naam|Beschrijving|Kostprijs|
-|:---:|:---:|:---:|:---:|
-|Camera|Pixy 2|Smart Vision Sensor: camera met image recognition|€ 96,74
-|Camera|Huskylens|Een gebruiksvriendelijke AI Machine Vision-sensor|€ 54,95|
-|Microcontroller|Arduino Uno||€28,53|
-|Batterij||Lithium Polymer Rechargeable Battery, 1.8Ah|€ 16,67|
-|LCD-scherm|Round display|Ronde IPS 3,3 cm (1,28") LCD-display met 4-wire SPI-interface|€14,99|
-|Proximity Sensor||Ambient Light en Proximity Sensor APDS-9930|€1,80|
-|Potentiometer||Seeed Studio Grove Rotary Angle Sensor, Arduino Compatible Board|€ 3,69|
-|Drukknoppen|APEM 4 Key|Illuminated Membrane Keypad|€ 25,85|
+### Bill of materials
+In eerste instantie is het product verder ontwikkeld met Protopie en door gebruik te maken van Make Make. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen. 
 
 
-## Kritische reflectie
+### Kritische reflectie
 Het eerste semester is succesvol verlopen, met enkele onverwachte uitdagingen die desondanks vakkundig zijn aangepakt. Over het geheel genomen zijn de doelen voor dit semester volledig gerealiseerd. Aan het einde van deze periode hebben we nu een solide prototype, dat als fundament zal dienen voor verdere ontwikkeling in het komende semester. Bij nadere beschouwing van de tijdslijn valt op dat we een stevige basis hebben gelegd met het huidige prototype, waarop we in het volgende semester uitgebreide iteraties zullen toepassen om het verder te verfijnen en verbeteren.
 Het vinden van een oplossing voor het scherm blijft echter een aanzienlijke uitdaging. Deze uitdaging zal een van de meest veeleisende zijn die we in het volgende semester zullen aangaan. Door tijdsgebrek is dit nog niet behandeld geweest. Niet alleen door tijdsgebrek, maar ook omdat een zeer moeilijke opgave is dit nog niet gerealiseerd.
 De focusgroep en een paar van de interviews zijn uitgevoerd op de Chiro. Doordat deze omgeving zeer speels is kwamen er telkens vlot vrij veel creatieve, open antwoorden. Het was echter vaak moeilijk om diepgaande, serieuze antwoorden te bekomen. De omgeving, tijd en sfeer die er hing tijdens de onderzoeken was niet altijd even productief voor het eindproduct. Het was natuurlijk ook onze eerste keer dat we een interview uitvoerden bij kinderen en we hebben veel geleerd maar er valt ook nog veel te verbeteren.
 Doordat de interviews telkens op de Chiro zijn uitgevoerd is de steekproef vrij gebased. De kinderen komen allemaal uit dezelfde regio, hebben dezelfde hobby en zijn allemaal bevriend. Dit zou als gevolg kunnen hebben dat het resultaat niet representatief is voor de volledige populatie van kinderen die we willen bereiken met ons product. Voor representatievere antwoorden te bekomen zouden we de demografie van de respondenten wat beter moeten spreiden.
+
 
 
 ## Bronnen
