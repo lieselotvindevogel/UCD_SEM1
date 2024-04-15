@@ -211,6 +211,13 @@ Ze wilden al op avontuur vertrekken.
 
 ### Mind 
 #### Expert review 
+Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de experten zullen naar kijken bij het testen van het prototype. Uit de heuristieken is er gekozen geweest voor volgende aandachtspunten.
+<ul>
+ <li>Error preventie</li>
+ <li>Herkenning in plaats van herinnering</li>
+ <li>Flexibiliteit en efficiëntie in gebruik</li>
+ <li>Eenvoudige iconen/ handeling</li>
+</ul>
 
 #### Usability test 
 
