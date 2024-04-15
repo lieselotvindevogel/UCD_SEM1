@@ -209,7 +209,15 @@ Om toch het nut van dit onderzoek te bekijken is er aan de kinderen zelf en aan 
 De ouders zagen het zeker en vast als een nuttig project. De kinderen waren helemaal mee in het verhaal en wilden zeker en vast dit in de toekomst spelen.
 Ze wilden al op avontuur vertrekken.
 
+### Mind 
+#### Expert review 
 
+#### Usability test 
+
+### Senses 
+#### Analyse 
+
+#### Usability test
 
 ### Design requirements 
 Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
