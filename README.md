@@ -8,9 +8,7 @@ Projectteam: Guus Lecho; Lieselot Vindevogel
 ## Samenvatting
 Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voornamelijk als gevolg van de groeiende populariteit van smartphones, spelcomputers en tablets onder de jongere generaties. Deze bevinding is gebaseerd op deskresearch en onderzoek rechtstreeks bij de doelgroep. Ons concept is gericht op het aanpakken van deze trend en biedt een innovatieve benadering om kinderen op een speelse wijze naar buiten te lokken, waar ze de natuur kunnen verkennen. 
 
-Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Hierbij moeten ze objecten in de natuur scannen die op het scherm verschijnen, waarmee ze punten verdienen. Deze verzamelde punten stellen hen in staat om hun virtuele avatar aan te passen. Op deze manier worden kinderen gestimuleerd om meer tijd buiten door te brengen, terwijl ze tegelijkertijd nieuwe kennis opdoen over de natuur. 
-
-De volledige context van het ontwerp staat nog niet volledig vast. Het ontwerp zou kunnen worden toegepast in dierentuinen om bezoekers meer te laten ontdekken over specifieke dieren. Daarom zal het hoogstwaarschijnlijk worden uitbesteed aan bedrijven waar zo'n zaken als nuttig leerdoel kan gebruikt worden, zoals pretparken, schoolcontext, parken en dierentuinen. De lay-out zal aanpasbaar zijn om tegemoet te komen aan hun specifieke doelstellingen om de kinderen iets bij te leren. 
+Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Het ontwerp zal toegepast worden in dierentuinen om bezoekers meer te laten ontdekken over specifieke dieren. Daarom zal het hoogstwaarschijnlijk worden uitbesteed aan bedrijven waar zo'n zaken als nuttig leerdoel kan gebruikt worden, zoals pretparken, schoolcontext, parken en dierentuinen. De lay-out zal aanpasbaar zijn om tegemoet te komen aan hun specifieke doelstellingen om de kinderen iets bij te leren. Voor optimale resultaten is besloten om het onderzoek te baseren op de setting van de dierentuin.
 <p align="middle">
 <img src="https://github.com/lieselotvindevogel/images/blob/main/foto%204.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
 </p>
@@ -37,11 +35,13 @@ In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden
 <blockquote>
 “Hoe kunnen we schoolkinderen (6-11j) avontuur en ontdekking in de natuur laten beleven met behulp van een slim speelgoed?” 
 </blockquote>
-De discovery fase resulteerde in een probleem, dat vervolgens in de definition fase nader werd uitgewerkt. Uit deze verdieping is een concept met verschillende prototypes ontstaan, elk met een specifieke rol in ons proces. Om het eerste semester af te ronden, is er na een gebruikerstoetsing een definitieve vorm van het concept gekozen. In het tweede semester zal er volop gewerkt worden aan de verdere ontwikkeling en verfijning van dit concept. 
+De discovery fase resulteerde in een probleem, dat vervolgens in de definition fase nader werd uitgewerkt. Uit deze verdieping is een concept met verschillende prototypes ontstaan, elk met een specifieke rol in ons proces. Om het eerste semester af te ronden, is er na een gebruikerstoetsing een definitieve vorm van het concept gekozen. In het tweede semester is er volop gewerkt aan de verdere ontwikkeling en verfijning van dit concept. 
 
 Voor de evaluatie van verschillende prototypes tijdens interviews werd de benadering van Activity-Centered Design toegepast. Deze methode richtte zich op het observeren van gebruikershandelingen en hun interactie met de ontwerpen. Deze aanpak werd gekozen vanwege de uitdaging bij kinderen om expliciet te benoemen hoe ze met iets omgaan. Door te focussen op hun handelingen konden we een correcter beeld krijgen van hun ervaringen en meningen betreffende de prototypes.  
 
 Na iedere fase van onderzoek en prototypes is er een grondige analyse gemaakt van de resultaten. Deze zijn terug te vinden in de OneDrive (Opdracht gebruiksgericht ontwerpen) ieder onder hun eigen fase. De bevindingen worden meegenomen in doorlopen van volgende fasen tot aan het eindconcept. 
+
+Het tweede semester is gestart met de ... fase 
 ## Discovery
 ### Doelstellingen
 Wat willen we juist bereiken in de discovery fase? Het doel is om te onderzoeken hoe kinderen omgaan met de natuur. Is het mogelijk om technologie als stimulans te gebruiken om kinderen meer op een speelse manier naar buiten te doen gaan? Hoeveel tijd brengen kinderen door binnen? We trekken het probleem open en kijken naar het brede aspect ervan. We willen inzichten verkrijgen over hoe kinderen de natuur nu ervaren. Hiernaast willen we ook te weten komen welk speelgoed kinderen momenteel het meest bezig houdt en waarom dit zo is. 
