@@ -198,7 +198,7 @@ Voor de eerste persoon maakte het niet veel uit, maar uiteindelijk heeft hij toc
 De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaande foto)
 <p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 2 </em></p>
 De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verschoof de buis tot aan de stop en vond dit perfect. 
-<img src="" width= "50%"/></br><em> Figuur 13: totale lengte persoon 3 </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon3%20-%20lengte.jpeg" width= "50%"/></br><em> Figuur 13: totale lengte persoon 3 </em>
 
 
 
