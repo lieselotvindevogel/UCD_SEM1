@@ -225,8 +225,8 @@ Aan de hand van een figma template zullen de experts feedback geven op het ontwe
 
 ### Senses 
 #### Analyse 
-Het concept is onderworpen aan een hiërarchische taakanalyse met daarop een mapping van de interactiekeuzes. In deze hiërarchische taakanalyse staat van het begin tot het einde hoe het product gebruikt wordt.  Bij elke interactie hoort een bepaalde knop. Deze mapping was van belang om goed te de juiste interacties te kunnen testen. Deze analyse met zijn interacties is weergegeven in onderstaande figuur.
-<img src="https://github.com/lieselotvindevogel/images/blob/main/hi%C3%ABrarchische%20taakanalyse.png" width= "50%"/></br><em> Figuur 14: hiërarchische taakanalyse </em>
+Het concept is geanalyseerd met een hiërarchische taakanalyse waarin de interactieopties in kaart zijn gebracht. Deze analyse beschrijft stap voor stap hoe het product wordt gebruikt, van begin tot eind. Elke interactie is gekoppeld aan een specifieke knop. Deze mapping was essentieel om de juiste interacties effectief te kunnen testen. De analyse, inclusief de interacties, is weergegeven in onderstaande figuur.
+<img src="https://github.com/lieselotvindevogel/images/blob/main/hi%C3%ABrarchische%20taakanalyse.png" width= "95%"/></br><em> Figuur 14: hiërarchische taakanalyse </em>
 
 
 
