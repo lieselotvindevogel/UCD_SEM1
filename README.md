@@ -256,7 +256,7 @@ Bij al de bekomen resultaten is ook gekeken naar hun effect op de design require
 ||Er moet mogelijkheid zijn voor fysieke verandering en interactie met het product.|
 
 ### Bill of materials
-In eerste instantie is het product verder ontwikkeld met Protopie en door gebruik te maken van Make Make. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen. 
+In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
 
 
 ### Kritische reflectie
