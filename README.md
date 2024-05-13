@@ -270,24 +270,7 @@ Doordat de interviews telkens op de Chiro zijn uitgevoerd is de steekproef vrij 
 ## Bronnen
 1: Children are playing outside less and less | Adventure+. (z.d.). https://adventureplus.net.au/blog/children-are-playing-outside-less-and-less
 
-2: PIXY2 - Smart Vision Sensor, SEN-14678 - Antratek Electronics. (z.d.). Antratek Electronics. https://www.antratek.be/pixy2-smart-vision-sensor
-
-3: DFRobot Huskylens AI Vision Sensor | Elektronica voor jou. (2024, 23 januari). Elektronica Voor Jou. https://elektronicavoorjou.nl/product/gravity-huskylens/
-
-4: Joy-IT SBC-LCD1.28R displaymodule 3.3 cm (1.28 inch) 240 x 240 pixel kopen ? Conrad Electronic. (z.d.). https://www.conrad.be/nl/p/joy-it-sbc-lcd1-28r-displaymodule-3-3-cm-1-28-inch-240-x-240-pixel-2587757.html?WT.mc_id=affiliates%3Atradetracker%3Afeed%3A2587757&utm_medium=affiliate&utm_source=tradetracker&utm_campaign=313167&utm_content=Kiesproduct.be+Shopping
-
- 
-5: 101020017 | SeEeD Studio Grove Rotary Angle Sensor, Arduino Compatible Board | RS. (z.d.). https://benl.rs-online.com/web/p/arduino-compatible-boards-kits/1793717?cm_mmc=BE-PLA-DS3A-_-google-_-PLA_BE_NL_Raspberry_Pi_%26_Arduino_%26_ROCK_%26_Development_Tools_Whoop-_-(BE:Whoop!)+Arduino+Compatible+Boards+%26+Kits-_-1793717&matchtype=&aud-827186183886:pla-508161397392&gad_source=1&acs_info=ZmluYWxfdXJsOiAiaHR0cHM6Ly9iZW5sLnJzLW9ubGluZS5jb20vd2ViL3AvYXJkdWluby1jb21wYXRpYmxlLWJvYXJkcy1raXRzLzE3OTM3MTcvIgo&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb68ou7ZHpATpGzqVQCtZxsGrCFq9_8y85a6UZ3xIY_OfWR3GFGOvEtkaAnhGEALw_wcB&gclsrc=aw.ds
-
-6: AC3559ILL | APEM 4 Key Illuminated Membrane KeyPad | RS. (z.d.). https://benl.rs-online.com/web/p/keypads/6932388?cm_mmc=BE-PLA-DS3A-_-google-_-CSS_BE_NL_Switches_Whoop-_-(BE:Whoop!)+Keypads-_-6932388&matchtype=&aud-827186183686:pla-340841928841&gad_source=1&acs_info=ZmluYWxfdXJsOiAiaHR0cHM6Ly9iZW5sLnJzLW9ubGluZS5jb20vd2ViL3Ava2V5cGFkcy82OTMyMzg4LyIK&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb684ksk1-rWWuvVaZDsFcmB7C1UzXyn0ZoX5YoFZ9zt_Z8AcuE-HLAIaAqrREALw_wcB&gclsrc=aw.ds
-
-7: A000066 | Arduino Uno Rev 3 | RS. (z.d.). https://benl.rs-online.com/web/p/arduino/7154081?cm_mmc=BE-PLA-DS3A-_-google-_-CSS_BE_NL_Raspberry_Pi_%26_Arduino_%26_ROCK_%26_Development_Tools_Whoop+(2)-_-(BE:Whoop!)+Arduino-_-7154081&matchtype=&aud-827186183686:pla-339391921421&gad_source=1&acs_info=ZmluYWxfdXJsOiAiaHR0cHM6Ly9iZW5sLnJzLW9ubGluZS5jb20vd2ViL3AvYXJkdWluby83MTU0MDgxLyIK&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_7cg9EO7K9ytreZc3XK9NX38PB_53ZyeRmhGrqcDpFUdzPpRfqb1MaAn5rEALw_wcB&gclsrc=aw.ds
-
-8: Ambient Light en Proximity Sensor APDS-9930. (z.d.). Chitek. https://www.chitek.nl/ambient-light-en-proximity-sensor-apds-9930.html?source=googlebase
-
-9: RS PRO, 3.7V, 53.5 x 35 x 10.4 mm, Lithium Polymer Rechargeable Battery, 1.8Ah | RS. (z.d.). https://benl.rs-online.com/web/p/speciality-size-rechargeable-batteries/1449405?cm_mmc=BE-PLA-DS3A-_-google-_-CSS_BE_NL_Batteries_%26_Chargers_Whoop+(2)-_-(BE:Whoop!)+Speciality+Size+Rechargeable+Batteries-_-1449405&matchtype=&aud-827186183686:pla-333331382340&gad_source=1&acs_info=ZmluYWxfdXJsOiAiaHR0cHM6Ly9iZW5sLnJzLW9ubGluZS5jb20vd2ViL3Avc3BlY2lhbGl0eS1zaXplLXJlY2hhcmdlYWJsZS1iYXR0ZXJpZXMvMTQ0OTQwNS8iCg&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6-u-QNfFIACUmfxpA5yT2V7KC2Jhkl27Oaw9mexTtj6QPQNqLMbelMaAgYKEALw_wcB&gclsrc=aw.ds
-
-10: The Zendesk triple diamond. Mike Chen. (z.d.). https://medium.com/zendesk-creative-blog/the-zendesk-triple-diamond-process-fd857a11c179
+2: The Zendesk triple diamond. Mike Chen. (z.d.). https://medium.com/zendesk-creative-blog/the-zendesk-triple-diamond-process-fd857a11c179
 
 
 ## Bijlagen
