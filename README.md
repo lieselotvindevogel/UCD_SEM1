@@ -108,7 +108,7 @@ De vorm van het product is onderzocht geweest aan de hand van twee waves van pro
 
 Wave 1 prototypes: test de algemene vorm van het product. (n=3) 
 Materiaal: 
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding4.png" width= "60%"/></br><em>Figuur 5: prototypes wave 1 </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding4.png" width= "60%"/></br><em>Figuur 4: prototypes wave 1 </em>
 </p>
 Methode: 
 Aan de hand van deze drie objecten wordt een gebruikers interview opgesteld om antwoord te krijgen op volgende onderzoeksvraag:
@@ -121,7 +121,7 @@ Welke vorm van het speelgoed werkt het beste?
 De gebruiker krijgt alle drie de versies te zien. Hij moet vervolgens een korte simulatie doorlopen met elke versie. De geïnterviewde kan dus zeer goed kiezen en vergelijken welke versie van het object hij het beste vindt.
 Wave 2 prototypes: kijkt naar de interactie met het product en hoe de gebruiker het scherm zal bedienen. (n=3)
 Materiaal:
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.png" width= "60%"/></br><em> Figuur 6: prototype wave 2 </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.png" width= "60%"/></br><em> Figuur 5: prototype wave 2 </em>
 </p>
 Methode:
 Aan de hand van deze drie objecten wordt een gebruikers interview opgesteld om antwoord te krijgen op volgende onderzoeksvragen:
@@ -138,12 +138,12 @@ Bij deze wave krijgt de gebruiker telkens maar één versie van de prototypes te
  <li>Gebruiker 3: Telescoop > verrekijker > vergrootglas</li>
 </ul>
 De volgorde van de vorm waren voor iedere gebruiker anders.
-<p align="middle"><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 7: gebruiker wave 1</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 6: gebruiker wave 1</em>
 </p>
 <p>Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
 Bij de telescoop verstaan de kinderen rapper hoe ze met het voorwerp moeten omgaan. Dit kan ook liggen aan enige herkenning met het voorwerp, maar ook omdat het iets is wat eenvoudig te gebruiken valt. Het interesseert de kinderen zeker en vast dat de telescoop kan uitschuiven. Over het uitschuiven moet nog praktisch nagedacht worden omdat dit niet eenvoudig te realiseren valt met de elektronica die erin zal verwerkt moeten worden.
 </p>
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.jpg" width= "30%"/></br><em> Figuur 8: gebruiker wave 1</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding2.jpg" width= "30%"/></br><em> Figuur 7: gebruiker wave 1</em>
 </p>
 De resultaten van wave 2 zijn:
 De versie met de knoppen vooraan gaf de beste ervaring. Door de knoppen vanachter botste de gebruiker met zijn mouw tegen het gezicht. De variant van knoppen vooraan is minder duidelijk te kiezen. Wel zijn er enkele designfeatures waar rekening mee gehouden kan worden om tot een derde finale variant van knoppen te komen.
@@ -151,7 +151,7 @@ De versie met de knoppen vooraan gaf de beste ervaring. Door de knoppen vanachte
 De knoppen zouden best iets groter zijn, zodat er minder gekeken moet worden en dat er minder vaak twee knoppen tegelijk ingedrukt worden.
 De knoppen moeten meer intuïtief zijn en feedback geven zodat de kinderen niet moeten kijken op welke knop ze duwen maar dat ze het kunnen voelen. Iets minder knoppen kunnen hier ook bij helpen.
 Het design moet ook zowel voor rechtshandigen als voor linkshandigen werken.
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.jpg" width= "30%"/></br><em> Figuur 9: gebruiker wave 2</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding3.jpg" width= "30%"/></br><em> Figuur 8: gebruiker wave 2</em>
 </p>
 
 De resultaten van de interviews zijn vervat in enkele rapporten die terug te vinden zijn in volgende mapje [definition](https://ugentbe-my.sharepoint.com/:f:/g/personal/guus_lecho_ugent_be/EhM6lTMHFRVAvtqnNgkCbIIBnUWxCHP-qRoDDM2QlJ6DZQ?e=enKGHK).
@@ -170,7 +170,7 @@ Het gekozen design type, "Design for the small" (P5), is een bewuste en doordach
 
 Met deze analyse zijn er enkele prototypes gemaakt die de gegevens verwerken. 
 #### Materiaal
-<img src="https://github.com/lieselotvindevogel/images/blob/main/materiaal%20-%20test%201.jpg" width= "50%"/></br><em> Figuur 10: testmateriaal </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/materiaal%20-%20test%201.jpg" width= "50%"/></br><em> Figuur 9: testmateriaal </em>
  
 
 
@@ -193,11 +193,11 @@ Testpersoon 3 verkiest de 1e  grote buis tegenover de andere diameters. Dit kan 
 
 #### De totale lengte testen 
 Voor de eerste persoon maakte het niet veel uit, maar uiteindelijk heeft hij toch een antwoord gegeven. De totale lengte van de schuifbuis vond hij goed genoeg. 
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%201%20-%20lengte.jpg" width= "50%"/></br><em> Figuur 11: totale lengte persoon 1 </em></p>
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%201%20-%20lengte.jpg" width= "50%"/></br><em> Figuur 10: totale lengte persoon 1 </em></p>
 De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaande foto)
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 2 </em></p>
+<p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 11: totale lengte persoon 2 </em></p>
 De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verschoof de buis tot aan de stop en vond dit perfect. 
-<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon3%20-%20lengte.jpeg" width= "50%"/></br><em> Figuur 13: totale lengte persoon 3 </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon3%20-%20lengte.jpeg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 3 </em>
 
 
 
@@ -225,7 +225,7 @@ Aan de hand van een figma template zullen de experts feedback geven op het ontwe
 ### Senses 
 #### Analyse 
 Het concept is geanalyseerd met een hiërarchische taakanalyse waarin de interactieopties in kaart zijn gebracht. Deze analyse beschrijft stap voor stap hoe het product wordt gebruikt, van begin tot eind. Elke interactie is gekoppeld aan een specifieke interactie. Deze mapping was essentieel om de juiste interacties effectief te kunnen testen. De analyse, inclusief de interacties, is weergegeven in onderstaande figuur. Bij iedere interactie is nagedacht naar de verschillende mogelijkheden. Voor de testen is er gekozen om gebruikt te maken van geluid, trillingen en visuele weergave. Deze interacties zijn ieder op zijn manier toegevoegd aan het prototype. Uit de testen is gekomen of dit een meerwaarde was om te testen of niet.  
-<img src="https://github.com/lieselotvindevogel/images/blob/main/hi%C3%ABrarchische%20taakanalyse.png" width= "95%"/></br><em> Figuur 14: hiërarchische taakanalyse </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/hi%C3%ABrarchische%20taakanalyse.png" width= "95%"/></br><em> Figuur 13: hiërarchische taakanalyse </em>
 
 
 
