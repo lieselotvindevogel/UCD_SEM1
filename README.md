@@ -220,6 +220,8 @@ Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de expe
 Om zo’n goed mogelijke feedback te krijgen van de medestudenten worden de reviews niet samen afgelegd. De data wordt opgenomen door notities te maken en observaties te maken. Na het interview worden de observaties opgeschreven zodat deze in het rapport opgenomen kunnen worden. Achteraf wordt de data geanalyseerd door een antwoord te formuleren op de onderzoeksvragen door de thema’s die besproken zijn in het interview te gebruiken.  
 Aan de hand van een figma template zullen de experts feedback geven op het ontwerp. Op dit bestand staan de heuristieken van Nielsen die van belang hebben op deze review en nog enkele andere belangrijke onderwerpen waar de experts op moeten letten. De template van die gebruikt is, is terug te vinden op onedrive. 
 
+Het prototype is aangepast geweest tijdens de testen met de medestudenten met de gegeven feedback. Door dit te doen konden we het product nog beter optimaliseren. 
+
 #### Usability test 
 
 ### Senses 
@@ -230,7 +232,11 @@ Het concept is geanalyseerd met een hiërarchische taakanalyse waarin de interac
 
 
 #### Usability test
+Het prototype is zo aangepast geweest dat er mogelijkheid was tot enkele interacties. Dit is gerealiseerd met behulp van enkele teststukken en met behulp van een aangepast prototopie. Om het draaigeluid te creëren is er gebruik gemaakt van een ratel. Dit wordt weergegeven in fig. 14. Om het knijpgevoel te maken is er een stuk uit de laatste buis van de telescoop gesneden en vervangen door een siliconen stuk (fig.15). In het ontwerp van protopie zijn er enkele overgangsgeluiden toegevoegd. Met behulp van de usability test wordt getest of deze toevoegingen een meerwaarde zijn. 
 
+##### Materiaal
+Protopie: https://cloud.protopie.io/p/89a8882400aad513e4fef9ea?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1&handoff=true 
+Telescoop: 
 ### Design requirements 
 Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
 
