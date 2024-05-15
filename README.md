@@ -235,7 +235,7 @@ Het concept is geanalyseerd met een hiërarchische taakanalyse waarin de interac
 Het prototype is zo aangepast geweest dat er mogelijkheid was tot enkele interacties. Dit is gerealiseerd met behulp van enkele teststukken en met behulp van een aangepast prototopie. Om het draaigeluid te creëren is er gebruik gemaakt van een ratel. Dit wordt weergegeven in fig. 14. Om het knijpgevoel te maken is er een stuk uit de laatste buis van de telescoop gesneden en vervangen door een siliconen stuk (fig.15). In het ontwerp van protopie zijn er enkele overgangsgeluiden toegevoegd. Met behulp van de usability test wordt getest of deze toevoegingen een meerwaarde zijn. 
 
 ##### Materiaal
-Protopie: https://cloud.protopie.io/p/89a8882400aad513e4fef9ea?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1&handoff=true 
+[protopie]https://cloud.protopie.io/p/89a8882400aad513e4fef9ea?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1&handoff=true 
 Telescoop: 
 ### Design requirements 
 Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
