@@ -1,6 +1,6 @@
 # Nature Quest
 <p align="justify">
-Een interactieve telescoop met augmented reality, ontworpen om kinderen tussen 9 en 11 jaar op een speelse wijze naar buiten te lokken, waar ze op een leerijke manier kennis vergaderen omtrent de natuur, met als doel de relatie tussen kinderen en de natuur te versterken.  
+Een interactieve telescoop met augmented reality, ontworpen om kinderen tussen 9 en 11 jaar op een speelse wijze naar buiten te lokken, waar ze op een leerrijke manier kennis vergaderen omtrent de natuur, met als doel de relatie tussen kinderen en de natuur te versterken.  
 
 Projectteam: Guus Lecho; Lieselot Vindevogel 
 
@@ -9,8 +9,8 @@ Projectteam: Guus Lecho; Lieselot Vindevogel
 ## Samenvatting
 <p align="justify">
 Jonge kinderen spenderen tegenwoordig aanzienlijk minder tijd buitenshuis, voornamelijk als gevolg van de groeiende populariteit van smartphones, spelcomputers en tablets onder de jongere generaties. Deze bevinding is gebaseerd op deskresearch en onderzoek rechtstreeks bij de doelgroep. Ons concept is gericht op het aanpakken van deze trend en biedt een innovatieve benadering om kinderen op een speelse wijze naar buiten te lokken, waar ze de natuur kunnen verkennen. 
-
-Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Het ontwerp zal toegepast worden in dierentuinen om bezoekers meer te laten ontdekken over specifieke dieren. Daarom zal het hoogstwaarschijnlijk worden uitbesteed aan bedrijven waar zo'n zaken als nuttig leerdoel kan gebruikt worden, zoals pretparken, schoolcontext, parken en dierentuinen. De lay-out zal aanpasbaar zijn om tegemoet te komen aan hun specifieke doelstellingen om de kinderen iets bij te leren. Voor optimale resultaten is besloten om het onderzoek te baseren op de setting van de dierentuin.
+<p align="justify">
+Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te betrekken bij een interactief spel. Het ontwerp zal toegepast worden in dierentuinen om bezoekers meer te laten ontdekken over specifieke dieren. Daarom zal het hoogstwaarschijnlijk worden uitbesteed aan bedrijven waar zo'n zaken als nuttig leerdoel kan gebruikt worden. De lay-out zal aanpasbaar zijn om tegemoet te komen aan hun specifieke doelstellingen om de kinderen iets bij te leren. Voor optimale resultaten is besloten om het onderzoek te baseren op de setting van de dierentuin.
 <p align="middle">
 <img src="https://github.com/lieselotvindevogel/images/blob/main/foto%204.png" width= "50%"/></br><em> Figuur 1: Herosketch </em>
 </p>
@@ -27,7 +27,7 @@ Met het finaal concept wordt er gestreefd om de natuur te verbinden met de digit
 
 ## Methodologie
 <p align="justify">
-De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD proces van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. Het tweede semester gaat over het prototype verder uitwerken met verschillende iteratie, de development fase, het laatste deel van de triple diamond. De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hang van het NPD process. In het tweede semester is het NPD proces van Roozenberg en Eekels minder niet gebruikt doordat de richtlijnen van de opdrachten goed samen vielen met de triple diamond. Dit alles is weergegeven in 1 groot schema in fig. 3.  
+De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD proces van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. Het tweede semester gaat over het prototype verder uitwerken met verschillende iteraties, de development fase, het laatste deel van de triple diamond. De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hand van het NPD process. In het tweede semester is het NPD proces van Roozenberg en Eekels minder gebruikt doordat de richtlijnen van de opdrachten goed samen vielen met de triple diamond. Dit alles is weergegeven in 1 groot schema in fig. 3.  
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/methodologie.jpg" width= "60%"/></br><em>Figuur 3: methodologie </em>
 </p>
 <p align="justify">
@@ -39,7 +39,7 @@ In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden
 “Hoe kunnen we schoolkinderen (6-11j) avontuur en ontdekking in de natuur laten beleven met behulp van een slim speelgoed?” 
 </blockquote>
 <p align="justify">
-De discovery fase resulteerde in een probleem, dat vervolgens in de definition fase nader werd uitgewerkt. Uit deze verdieping is een concept met verschillende prototypes ontstaan, elk met een specifieke rol in ons proces. Om het eerste semester af te ronden, is er na een gebruikerstoetsing een definitieve vorm van het concept gekozen. In het tweede semester is er volop gewerkt aan de verdere ontwikkeling en verfijning van dit concept. Dit komt overeen met de development fase van de triple diamond. In deze fase zijn er verschillende iteratie ontwerpt en geëvalueerd met de gebruiker. 
+De discovery fase resulteerde in een probleem, dat vervolgens in de definition fase nader werd uitgewerkt. Uit deze verdieping is een concept met verschillende prototypes ontstaan, elk met een specifieke rol in ons proces. Om het eerste semester af te ronden, is er na een gebruikerstoetsing een definitieve vorm van het concept gekozen. In het tweede semester is er volop gewerkt aan de verdere ontwikkeling en verfijning van dit concept. Dit komt overeen met de development fase van de triple diamond. In deze fase zijn er verschillende iteraties ontwerpt en geëvalueerd met de gebruiker. 
 <p align="justify">
 Voor de evaluatie van verschillende prototypes tijdens interviews werd de benadering van Activity-Centered Design toegepast. Deze methode richtte zich op het observeren van gebruikershandelingen en hun interactie met de ontwerpen. Deze aanpak werd gekozen vanwege de uitdaging bij kinderen om expliciet te benoemen hoe ze met iets omgaan. Door te focussen op hun handelingen konden we een correcter beeld krijgen van hun ervaringen en meningen betreffende de prototypes.  
 <p align="justify">
@@ -399,25 +399,27 @@ De antwoorden op de onderzoeksvragen zijn afgeleid uit de antwoorden van de gebr
 
 ## Algemene Conclusie
 ### Conclusie
+<p align="justify">
 Alle testen en onderzoek hebben ons gebracht tot een prototype met een vrij grote productmaturiteit. Vooral op het vlak van vorm van het object en op het vlak van het spel en concept heeft het product al grote stappen gezet. Als we terugkijken naar de originele opdracht hebben we deze goed kunnen volbrengen. We hebben een technologisch speelgoed waardoor kinderen een leuk, speels en avontuurlijk moment kunnen hebben in een dierentuin. Dit leert hun iets bij over de dieren en brengt hun dichter in contact. Het eindproduct is een prototype dat er ook nog vrij goed uitziet. 
 
 ///// figuur 22 foto van finaal prototype ////
- 
+ <p align="justify">
 In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
 Het bedenken en bouwen van de verschillende prototypes heeft ervoor gezorgd dat het product vooruit gaat. Verdere prototypes zijn zeker ook nog nodig. Dit zowel op de vlakken die al iets beter onderzocht zijn in deze studie, maar ook op het technologische vlak. Tot nu toe zit er nog geen electronica in het prototype. Hier is al voor een stuk over nagedacht maar het was een grote stap om deze ook te kunnen integreren binnen de grenzen van dit vak. Figuur 23 toont een visie van ons op hoe de electronica geintegreerd kan worden.
 
 //// figuur 23 foto van interne elektro componenten ////
-
+<p align="justify">
 De electronische componenten zijn:
 Camera met sensoren, microcontroller, batterijen, rond lcd-scherm, vibratie component, speaker, flexsensor (voor de knop), proximity sensor (om te zien wanneer de telescoop geopend wordt), rotatie sensor (voor het in- en uitzoomen), oplaadpoort
-
+<p align="justify">
 Andere componenten die nog toegevoegd moeten worden zijn een beschermglas langs voor en achter en mogelijks lenzen zodat het scherm duidelijker zichtbaar en leesbaar is.
-
+<p align="justify">
 De software die de dieren herkent en die de augmented reality stuurt zal uiteraard ook uitgezocht en getest moeten worden. Een mogelijke oplossing hiervoor zijn camera's met geintegreerde image recognition. Een voorbeeld hiervan is de Pixie 2 maar er zijn er nog. Dit moet verder nog uitgezocht worden.
 Het spel kan ook grafisch en op het vlak van gameification nog verder uitgewerkt worden.
 
 
 ### Design requirements 
+<p align="justify">
 Uit de testen zijn criteria voortgekomen. Deze criteria zijn omgezet in design requirements voor het eindproduct. Gedurende het jaar en het verlooop van de prototypes is er elke keer geprobeerd om zoveel mogelijk requirements af te checken om een zo goed mogelijk product te krijgen. Naast de rechstreekse antwoorden op onderzoeksvragen kwam er uit elk gesprek met doelpubliek, experten,... ook andere inzichten boven. Deze zijn ook opgenomen in de requirements.
 De requirements zijn onderverdeel onder volgende categoriën:
 
@@ -428,11 +430,14 @@ De requirements zijn onderverdeel onder volgende categoriën:
 De volledige lijst met alle requirements die geldig zijn voor het product is terug te vinden via volgende link: [List of requirements](https://ugentbe-my.sharepoint.com/:x:/g/personal/guus_lecho_ugent_be/EcUe2no-oOJLtIS9VaK56fQB65QQruSuPiPCLdR_xoHUNQ?e=W1WTqq)
 
 ### Kritische reflectie
+<p align="justify">
 Het eerste semester is succesvol verlopen, met enkele onverwachte uitdagingen die desondanks vakkundig zijn aangepakt. Over het geheel genomen zijn de doelen voor dit semester volledig gerealiseerd. Aan het einde van deze periode hebben we nu een solide prototype, dat als fundament zal dienen voor verdere ontwikkeling in het komende semester. Bij nadere beschouwing van de tijdslijn valt op dat we een stevige basis hebben gelegd met het huidige prototype, waarop we in het volgende semester uitgebreide iteraties zullen toepassen om het verder te verfijnen en verbeteren.
 Het vinden van een oplossing voor het scherm blijft echter een aanzienlijke uitdaging. Deze uitdaging zal een van de meest veeleisende zijn die we in het volgende semester zullen aangaan. Door tijdsgebrek is dit nog niet behandeld geweest. Niet alleen door tijdsgebrek, maar ook omdat een zeer moeilijke opgave is dit nog niet gerealiseerd.
+<p align="justify">
 De focusgroep en een paar van de interviews zijn uitgevoerd op de Chiro. Doordat deze omgeving zeer speels is kwamen er telkens vlot vrij veel creatieve, open antwoorden. Het was echter vaak moeilijk om diepgaande, serieuze antwoorden te bekomen. De omgeving, tijd en sfeer die er hing tijdens de onderzoeken was niet altijd even productief voor het eindproduct. Het was natuurlijk ook onze eerste keer dat we een interview uitvoerden bij kinderen en we hebben veel geleerd maar er valt ook nog veel te verbeteren.
 Doordat de interviews telkens op de Chiro zijn uitgevoerd is de steekproef vrij gebased. De kinderen komen allemaal uit dezelfde regio, hebben dezelfde hobby en zijn allemaal bevriend. Dit zou als gevolg kunnen hebben dat het resultaat niet representatief is voor de volledige populatie van kinderen die we willen bereiken met ons product. Voor representatievere antwoorden te bekomen zouden we de demografie van de respondenten wat beter moeten spreiden.
-
+<p align="justify">
+Na semester 1 hebben we ons concept aangepast en hebben we een veel nauwer concept gekozen. Het idee waar we eerst rond aan het werken waren was zeer breed en dus was het zeer moeilijk om beslissingen te kunnen maken. Door het concept nauwer te kiezen ging dit makkelijker.
 
 
 ## Bronnen
