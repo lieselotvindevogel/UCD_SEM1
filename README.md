@@ -181,7 +181,7 @@ Wave 1 heeft de vorm van het object definitief vastgelegd op een telescoop. Dit 
 Bij wave 2 kon er dan verder getest worden op de telescoop. De implicatie van deze wave op het design is dat de knoppen vooraan op het speelgoed moeten zitten. De variant van knoppen ligt niet vast door dit onderzoek. In het tweede semester zullen deze nog verder bestudeerd moeten worden en zeker ook in combinatie met de uitwerking van het display en spel. Er zijn wel enkele vereisten voor de knoppen bevonden waar wel rekening mee moet gehouden worden in verdere prototypes.
 De bekomen bevindingen zijn een leidraad voor het vervolg van het project, waarbij het doel is om het gekozen concept verder te verfijnen en ontwikkelen op technologisch vlak.
 
- ## Development 1: The Body
+ ## Development 1 : The Body
 ### Doelstellingen
 <p align="justify">
  Op basis van antropometrische data worden enkele fysische eigenschappen van de telescoop gecontroleerd en afgetoetst. De belangrijkste eigenschappen die hier gecontroleerd worden zijn de maximale dikte van de grootste buis en de maximale totale lengte van de telescoop. Om de technologie later te integreren in het product is een zo dik mogelijke buis en een zo lang mogelijke telescoop preferabel omdat er dan zoveel mogelijk interne plaats is. De afmetingen kunnen echter niet oneindig groot gekozen worden. Deze moeten op maat zijn van het uiteindelijke doelpubliek. Deze development geeft dus als resultaat de afmetingen van het uiteindelijke product.
@@ -231,19 +231,22 @@ Deze test was niet eenvoudig te bepalen want voor de kinderen doet de lengte er 
 Het volledige rapport is te vinden via volgende link: [Rapport development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EXGRewh3i4lKsPRrRqzr-GIBd-kwIrw7r99lA7hs726Zgw?e=LNdLLp) 
 
  ### Conclusies & implicaties
+ <p align="justify">
 De conclusie van deze development is dat de eerste buis een maximale diameter van 50mm kan hebben. De totale lengte van de telescoop mag maximaal 500mm zijn. Met deze afmetingen blijft het voorwerp comfortabel voor de gebruikers.
 
 
 
-## Development 2: The Mind 
+## Development 2 : The Mind 
 ### Doelstellingen
+<p align="justify">
 Deze deeldevelopment focust zich op de usability en de user experience. In deze fase wordt er een eerste versie van het spel gemaakt en wordt dit voor een eerste keer getest op gebruikers. Als eerste wordt het product bij experts getest. Vervolgens vindt er een aanpassing plaats en worden er usability testen gedaan bij het doelpubliek. Het doel van deze fase is het spel en de interacties met het voorwerp om het spel te kunnen spelen te evalueren. De interactie met de telescoop en het spel zullen enkele design criteria met zich meebrengen om zowel het spel zelf als het object mee te verbeteren.
 
 ### Materiaal & methoden
-
+<p align="justify">
 Deze development bestaat uit twee delen. Als eerste een expert evaluation bij medestudenten en vervolgens usability testen bij het doelpubliek.
 
 #### Expert evaluation (n=2)
+<p align="justify">
 Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de experten zullen naar kijken bij het testen van het prototype. Uit de heuristieken is er gekozen geweest voor volgende aandachtspunten.
 <ul>
  <li>Error preventie</li>
@@ -252,21 +255,25 @@ Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de expe
  <li>Eenvoudige iconen/ handeling</li>
  <li>Esthetisch en minimalistisch design</li>
 </ul>
+<p align="justify">
 Deze criteria worden beoordeeld en genoteerd. Vervolgens kunnen deze omgezet worden in design requirements. Tijdens de test wordt er ook geobserveerd wat de gebruikers met het object doen en hoe ze het spel spelen.
-
+<p align="justify">
 De experten krijgen eerst een korte uitleg van het spel. Vervolgens spelen zij het spel. Dit gebeurt via een smartphone die op het einde van de telescoop het scherm simuleert dat in latere versies verwerkt zal zijn in de telescoop zelf. Op het scherm komt een eertse versie van het spel die gemaakt is in Protopie. Omdat er geen logica en electronica in dit prototype aanwezig is wordt de Wizard of Oz techniek toegepast. Respondenten voeren de interactie met het prototype uit maar de interviewer stuurt met de controller op een apart scherm de applicatie aan. Figuur 13 toont het prototype waarop deze test uitgevoerd is.
 
 ///// foto 13 van prototype /////
 ///// foto 14 van prototype /////
 
+<p align="justify">
 Figuur 14 toont de gsmhouder waarmee een scherm gegenereerd wordt.
 Tussen de twee testen met de verschillende experts is het design van de protopie reeds aangepast om nog betere optimalisatie toe te laten.
 
 #### Usability testen (n=2)
+<p align="justify">
 De usability testen worden uitgevoerd bij twee proefpersonen van het doelpubliek. Enkele usability goals zijn opgesteld en deze worden afgetoetst bij deze gebruikers. Dit is ook de eerste keer dat een gebruiker van het doelpubliek het spel zal spelen en dus zijn ook de reacties tijdens het spelen zeer belangrijk. 
 De proefpersonen krijgen een korte uitleg van het spel. Vervolgens spelen ze het spel, met behulp van de WoZ techniek. Na het spelen van het spel is er een gesprek om te vragen wat ze ervan vonden. De antwoorden op de vragen worden genoteerd en verwerkt tot design requirements. 
 
 ##### Usability goals
+<p align="justify">
 <ul>
  <li>Het uitschuiven om het spel aan te zetten moet zonder uitleg logisch zijn</li>
  <li>De speler begrijpt dat hij vooraan moet knijpen om te interageren met het spel (met de uitleg die gegeven is)</li>
@@ -275,22 +282,25 @@ De proefpersonen krijgen een korte uitleg van het spel. Vervolgens spelen ze het
  <li>Het verschil tussen de interactie van lang en kort knijpen wordt duidelijk en heeft geen verdere uitleg nodig (uiteindelijke doel, er moet op het einde van het spel niet altijd meer gezegd worden wanneer er lang geknepen moet worden en wanneer kort)</li>
  <li>De gebruiker kijkt echt door de telescoop en gebruikt het echt om mee rond te kijken door de ruimte (hij/zei kijkt niet gewoon rond en dan door de telescoop maar kijkt de hele tijd door de telescoop zelf)</li>
 </ul>
+<p align="justify">
 Het volledige protocol is te vinden via volgende link: [Protocol development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EbLS7eyIyCVJgyqAJpTK9MQBhUPuMMKVQ3SPZoPrF560Tw?e=2HB8Mu)
 
 ### Resultaten
 #### Expert evaluation
+<p align="justify">
 De eerste testpersoon kreeg de eerste versie van de protopie te zien. Figuur 15 toont het ingevulde figma bestand met de heuristieken van Nielssen.
 
 //// figuur 15 ////
 
-
+<p align="justify">
 De tweede persoon kreeg dan al een tweede versie van de protopie applicatie te zien. Deze was al aangepast met enkele dingen die de eerste persoon had gezegd. Figuur 16 toont haar ingevuld figma bestand met de evaluatie voor deze versie en de interactie.
 
 /// figuur 16 ////
-
+<p align="justify">
 Deze aandachtspunten zijn allemaal vertaald naar design requirements.
 
 #### Usability testen
+<p align="justify">
 De preofpersonen gaven nuttige antwoorden op de vragen die gesteld zijn om de usability goals te testen. Deze antwoorden werden vervolgens ook vertaald naar design requirements.
 Enkele voorbeelden van antwoorden.
 “Ja, het was makkelijk om te begrijpen wat ik moest doen. De opdrachten kwamen op het scherm.”
@@ -298,15 +308,36 @@ Enkele voorbeelden van antwoorden.
 “Wat ik moeilijk vond, was soms de opdrachten heel snel achter elkaar kwamen, dan moest ik goed opletten.”
 
 //// figuur 17 persoon met prototype ////
-
+<p align="justify">
 Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
 
 ### Conclusies & implicaties
-Deze development heeft veel inzichten met zich meegebracht. Deze inzichten kunnne gebruikt worden om de interacties met de telescoop te verbeteren en om het spel zelf te verbeteren. De protopie, wat het spel moet voorstelle, is al een paar keer geupdatet en kna nog verder aangepast worden. De inzichten werden vertaald naar volgende design requirements.
+<p align="justify">
+Deze development heeft veel inzichten met zich meegebracht. Deze inzichten kunnne gebruikt worden om de interacties met de telescoop te verbeteren en om het spel zelf te verbeteren. De protopie, wat het spel moet voorstellen, is al een paar keer geupdatet en kan nog verder aangepast worden. De inzichten werden vertaald naar volgende design requirements.
 
 
+| Requirement                                                                                                        |
+|:------------------------------------------------------------------------------------------------------------------|
+| Het object moet vlot bewegen, bij het in en uitschuiven en het draaien mag het niet te stroef zijn zodat dit niet lukt. |
+| Een korte uitleg zodat er rap naar het spel gegaan kan worden (al spelend uitleg geven) => Er mag geen lange uitleg nodig zijn. |
+| Inzoomen moet een goede respons geven, instant zijn.                                                              |
+| Extra feedback tijdens het draaien en inzoomen (trilling/geluid/…).                                                |
+| De afstand van het scherm tot het oog goed bepalen, zorgen dat het scherm groot genoeg zichtbaar is en dat het leesbaar is (mogelijks lenzen toevoegen). Zorgen dat het ook voor iedereen zichtbaar is (mensen met bril). |
+| Een gate maken bij elk scherm/tekst. Gebruikers moeten eerst een handeling doen voor dat het scherm weg gaat. Anders bestaat de kans dat ze het gemist hebben. |
+| De knop moet visueel en ook tactiel duidelijk te herkennen zijn => de knop moet ook effectief werken.              |
+| De tekst met de instructie moet pas verdwijnen na een handeling, niet vanzelf.                                     |
+| Iets meer interactie voorzien (knijpen + draaien tegelijk) of meer dan enkel visuele feedback.                     |
+| Lang knijpen goed timen zodat dit niet te lang duurt.                                                             |
+| Esthetisch: het is een spel voor kinderen dus leuke, speelse graphics en kleuren.                                  |
+| Uitleg over de interacties aan de start geven, niet pas vlak voor ze nodig zijn (soort van tutorial).              |
+| De telescoop mag niet te gemakkelijk terug naar binnen schuiven, als ze uitgeschoven is moet ze in deze staat blijven staan. |
+| De knop moet visueel en ook tactiel duidelijk te herkennen zijn.                                                  |
+| Variant voor andere talen.                                                                                        |
+| Feedback tijdens en na het knijpen, niet enkel visuele feedback.                                                  |
+| Object moet sterk gemaakt zijn, het mag niet aanvoelen alsof het kapot kan gaan. Kinderen moeten het gevoel hebben dat ze er mee kunnen doen wat ze willen en moeten doen. |
 
-## Development 3: The Senses 
+
+## Development 3 : The Senses 
 ### Doelstellingen
 ### Materiaal & methoden
 ### Resultaten
