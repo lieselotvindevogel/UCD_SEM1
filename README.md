@@ -154,8 +154,7 @@ Bij deze wave krijgt de gebruiker telkens maar één versie van de prototypes te
  <li>Gebruiker 3: Telescoop > verrekijker > vergrootglas</li>
 </ul>
 De volgorde van de vorm waren voor iedere gebruiker anders.
-<p align="middle"><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 6: gebruiker wave 1</em>
-</p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20.jpg" width= "30%"/></br><em> Figuur 6: gebruiker wave 1</em></p>
 <p align="justify">
 Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
 Bij de telescoop verstaan de kinderen rapper hoe ze met het voorwerp moeten omgaan. Dit kan ook liggen aan enige herkenning met het voorwerp, maar ook omdat het iets is wat eenvoudig te gebruiken valt. Het interesseert de kinderen zeker en vast dat de telescoop kan uitschuiven. Over het uitschuiven moet nog praktisch nagedacht worden omdat dit niet eenvoudig te realiseren valt met de elektronica die erin zal verwerkt moeten worden.
@@ -367,12 +366,21 @@ De data wordt opgenomen door notities te maken en observaties te maken. Na het i
 Het volledige protocol is te vinden via volgende link: [Protocol development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EfGBGDDeJCtCnnst6exLfhcBnYmyQGcC4pjrI1hwY7UFUA?e=8HyVR0)
 
 ### Resultaten
+<p align="justify">
+De proefpersonen gaven veel antwoorden op de vragen die gesteld werden. Deze antwoorden werden vertaald naar design requirements. Enkele voorbeelden van antwoorden zijn.
+“Ja, ik merkte dat het trillen stopte. Ik denk dat het wel nodig is, het maakt het spannender.”
+“Ik vond het in het begin beter met de stem, maar daarna maakte het niet zo veel uit. Geluid is wel belangrijk, het maakt het spel leuker.”
+“Das helemaal niet moeilijk. Het knijpen gaat makkelijk, ik heb geen problemen met die knop.”
+“Misschien zou het leuk zijn als de telescoop ook trilt als je de sterren krijgt.”
 
 /// figuur 21 iemand met het finale prototype ///
 
 Het volledige rapport is te vinden via volgende link: [Rapport development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EdRbPTddkplFs-zOVoXkUjIBpAc73GV-_wfh07C0kwwXjw?e=2dbd3q)
 
 ### Conclusies & implicaties
+<p align="justify">
+De antwoorden op de onderzoeksvragen zijn afgeleid uit de antwoorden van de gebruikers. De knop is beter met het siliconen knijpstuk, wel moet er nog een mechanische stap aan verbonden worden zodat het klikt. De ratel zorgt voor extra interactie tijdens het inzoomen en is dus een meerwaarde. Geluid en trillen tijdens het spel zijn ook een positief punt. Wel moet gekeken worden waar dit kan gebeuren en in welke mate. Deze bevindingen en andere zijn ook nog omgezet naar design requirements.
+
 | Requirement                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------|
 | Variatie in de leerdoelen en uitdagingen om de nieuwsgierigheid van de kinderen te prikkelen. Meer verscheidenheid in opdrachten. |
@@ -387,37 +395,28 @@ Het volledige rapport is te vinden via volgende link: [Rapport development 3](ht
 | Een knijpknop is een goede vorm van interactie (zorgt ook voor een vorm van robuustheid).                       |
 | De telescoop moet een voelbare trilling geven tijdens het draaien om in en uit te zoomen (Geeft een beter gevoel van dat er iets gebeurt). |
 
-## Vervolg/verdere verloop
+
 In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
 
 ## Algemene Conclusie
-## Design requirements 
-Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
+### Conclusie
+Alle testen en onderzoek hebben ons gebracht tot een prototype met een vrij grote productmaturiteit. Vooral op het vlak van vorm van het object en op het vlak van het spel en concept heeft het product al grote stappen gezet. Als we terugkijken naar de originele opdracht hebben we deze goed kunnen volbrengen. We hebben een technologisch speelgoed waardoor kinderen een leuk, speels en avontuurlijk moment kunnen hebben in een dierentuin. Dit leert hun iets bij over de dieren en brengt hun dichter in contact. Het eindproduct is een prototype dat er ook nog vrij goed uitziet. 
 
-|Cognitieve requirements|
-|:---|
-|Het product moet activiteiten bevatten die de besluitvorming en probleemoplossende vaardigheden van kinderen bevorderen.|
-|Het product moet educatieve inhoud bevatten die aansluit bij de leerdoelen voor de leeftijdsgroep van de kinderen.|
-|Het product moet activiteiten bevatten die creativiteit stimuleren.|
-|Op een innovatieve manier moeten de kinderen iets leren.|
-|Aan de hand van hun eigen verbeelding moeten de kinderen het spel spelen.|
+///// figuur 22 foto van finaal prototype ////
+ 
+Het bedenken en bouwen van de verschillende prototypes heeft ervoor gezorgd dat het product vooruit gaat. Verdere prototypes zijn zeker ook nog nodig. Dit zowel op de vlakken die al ie
+ts beter onderzocht zijn in deze studie, maar ook op het technologische vlak. 
+### Design requirements 
+Uit de testen zijn criteria voortgekomen. Deze criteria zijn omgezet in design requirements voor het eindproduct. Gedurende het jaar en het verlooop van de prototypes is er elke keer geprobeerd om zoveel mogelijk requirements af te checken om een zo goed mogelijk product te krijgen. Naast de rechstreekse antwoorden op onderzoeksvragen kwam er uit elk gesprek met doelpubliek, experten,... ook andere inzichten boven. Deze zijn ook opgenomen in de requirements.
+De requirements zijn onderverdeel onder volgende categoriën:
 
+| Cognitief | Fysiek | Antropometrisch | Interactie | Feedback | Spel | Geluid | Esthetisch | Extra |
+|-----------|-------|-----------------|------------|----------|------|--------|-----------|-------|
+|           |       |                 |            |          |      |        |           |       |
 
-||Fysieke requirements|
-|:---:|:---|
-|Antropometrisch|Het product moet een ergonomisch ontwerp hebben om comfortabel te gebruiken zijn.|
-||Het gewicht van het product mag niet te zwaar aanvoelen voor lang gebruik.|
-||Het product moet alle technische componenten intern bevatten om een gestroomlijnd ontwerp te behouden.|
-|Interactie|Het product moet fysieke knoppen hebben voor navigatie en interactie.|
-||De verzamelde gegevens moeten worden bijgehouden op aparte app.|
-||Het product moet intuïtief en gemakkelijk te begrijpen zijn, zodat het kind direct weet hoe het te gebruiken zonder complexe instructies.| 
-||De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
-||Er moet mogelijkheid zijn voor fysieke verandering en interactie met het product.|
+De volledige lijst met alle requirements die geldig zijn voor het product is terug te vinden via volgende link: [List of requirements](https://ugentbe-my.sharepoint.com/:x:/g/personal/guus_lecho_ugent_be/EcUe2no-oOJLtIS9VaK56fQB65QQruSuPiPCLdR_xoHUNQ?e=W1WTqq)
 
-
-
-
-## Kritische reflectie
+### Kritische reflectie
 Het eerste semester is succesvol verlopen, met enkele onverwachte uitdagingen die desondanks vakkundig zijn aangepakt. Over het geheel genomen zijn de doelen voor dit semester volledig gerealiseerd. Aan het einde van deze periode hebben we nu een solide prototype, dat als fundament zal dienen voor verdere ontwikkeling in het komende semester. Bij nadere beschouwing van de tijdslijn valt op dat we een stevige basis hebben gelegd met het huidige prototype, waarop we in het volgende semester uitgebreide iteraties zullen toepassen om het verder te verfijnen en verbeteren.
 Het vinden van een oplossing voor het scherm blijft echter een aanzienlijke uitdaging. Deze uitdaging zal een van de meest veeleisende zijn die we in het volgende semester zullen aangaan. Door tijdsgebrek is dit nog niet behandeld geweest. Niet alleen door tijdsgebrek, maar ook omdat een zeer moeilijke opgave is dit nog niet gerealiseerd.
 De focusgroep en een paar van de interviews zijn uitgevoerd op de Chiro. Doordat deze omgeving zeer speels is kwamen er telkens vlot vrij veel creatieve, open antwoorden. Het was echter vaak moeilijk om diepgaande, serieuze antwoorden te bekomen. De omgeving, tijd en sfeer die er hing tijdens de onderzoeken was niet altijd even productief voor het eindproduct. Het was natuurlijk ook onze eerste keer dat we een interview uitvoerden bij kinderen en we hebben veel geleerd maar er valt ook nog veel te verbeteren.
