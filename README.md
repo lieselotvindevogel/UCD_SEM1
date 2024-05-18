@@ -258,6 +258,7 @@ De experten krijgen eerst een korte uitleg van het spel. Vervolgens spelen zij h
 
 ///// foto 13 van prototype /////
 ///// foto 14 van prototype /////
+
 Figuur 14 toont de gsmhouder waarmee een scherm gegenereerd wordt.
 Tussen de twee testen met de verschillende experts is het design van de protopie reeds aangepast om nog betere optimalisatie toe te laten.
 
@@ -277,13 +278,32 @@ De proefpersonen krijgen een korte uitleg van het spel. Vervolgens spelen ze het
 Het volledige protocol is te vinden via volgende link: [Protocol development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EbLS7eyIyCVJgyqAJpTK9MQBhUPuMMKVQ3SPZoPrF560Tw?e=2HB8Mu)
 
 ### Resultaten
+#### Expert evaluation
+De eerste testpersoon kreeg de eerste versie van de protopie te zien. Figuur 15 toont het ingevulde figma bestand met de heuristieken van Nielssen.
+
+//// figuur 15 ////
+
+
+De tweede persoon kreeg dan al een tweede versie van de protopie applicatie te zien. Deze was al aangepast met enkele dingen die de eerste persoon had gezegd. Figuur 16 toont haar ingevuld figma bestand met de evaluatie voor deze versie en de interactie.
+
+/// figuur 16 ////
+
+Deze aandachtspunten zijn allemaal vertaald naar design requirements.
+
+#### Usability testen
+De preofpersonen gaven nuttige antwoorden op de vragen die gesteld zijn om de usability goals te testen. Deze antwoorden werden vervolgens ook vertaald naar design requirements.
+Enkele voorbeelden van antwoorden.
+“Ja, het was makkelijk om te begrijpen wat ik moest doen. De opdrachten kwamen op het scherm.”
+“Kort knijpen was om het dier te zien te krijgen en lang knijpen was altijd als ik iets wou scannen.”
+“Wat ik moeilijk vond, was soms de opdrachten heel snel achter elkaar kwamen, dan moest ik goed opletten.”
+
+//// figuur 17 persoon met prototype ////
 
 Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
 
 ### Conclusies & implicaties
+Deze development heeft veel inzichten met zich meegebracht. Deze inzichten kunnne gebruikt worden om de interacties met de telescoop te verbeteren en om het spel zelf te verbeteren. De protopie, wat het spel moet voorstelle, is al een paar keer geupdatet en kna nog verder aangepast worden. De inzichten werden vertaald naar volgende design requirements.
 
-
-Het prototype is aangepast geweest tijdens de testen met de medestudenten met de gegeven feedback. Door dit te doen konden we het product nog beter optimaliseren. 
 
 
 ## Development 3: The Senses 
@@ -346,3 +366,6 @@ Doordat de interviews telkens op de Chiro zijn uitgevoerd is de steekproef vrij 
 
 
 ## Bijlagen
+
+Link naar de eerste protopie applicatie: 
+Link naar de tweede protopie applicatie:
