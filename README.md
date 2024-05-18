@@ -340,7 +340,11 @@ Deze development heeft veel inzichten met zich meegebracht. Deze inzichten kunnn
 ## Development 3 : The Senses 
 ### Doelstellingen
 ### Materiaal & methoden
+Het volledige protocol is te vinden via volgende link: [Protocol development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EfGBGDDeJCtCnnst6exLfhcBnYmyQGcC4pjrI1hwY7UFUA?e=8HyVR0)
+
 ### Resultaten
+Het volledige rapport is te vinden via volgende link: [Rapport development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EdRbPTddkplFs-zOVoXkUjIBpAc73GV-_wfh07C0kwwXjw?e=2dbd3q)
+
 ### Conclusies & implicaties
 
 #### Analyse 
