@@ -396,7 +396,6 @@ De antwoorden op de onderzoeksvragen zijn afgeleid uit de antwoorden van de gebr
 | De telescoop moet een voelbare trilling geven tijdens het draaien om in en uit te zoomen (Geeft een beter gevoel van dat er iets gebeurt). |
 
 
-In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
 
 ## Algemene Conclusie
 ### Conclusie
@@ -404,8 +403,20 @@ Alle testen en onderzoek hebben ons gebracht tot een prototype met een vrij grot
 
 ///// figuur 22 foto van finaal prototype ////
  
-Het bedenken en bouwen van de verschillende prototypes heeft ervoor gezorgd dat het product vooruit gaat. Verdere prototypes zijn zeker ook nog nodig. Dit zowel op de vlakken die al ie
-ts beter onderzocht zijn in deze studie, maar ook op het technologische vlak. 
+In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
+Het bedenken en bouwen van de verschillende prototypes heeft ervoor gezorgd dat het product vooruit gaat. Verdere prototypes zijn zeker ook nog nodig. Dit zowel op de vlakken die al iets beter onderzocht zijn in deze studie, maar ook op het technologische vlak. Tot nu toe zit er nog geen electronica in het prototype. Hier is al voor een stuk over nagedacht maar het was een grote stap om deze ook te kunnen integreren binnen de grenzen van dit vak. Figuur 23 toont een visie van ons op hoe de electronica geintegreerd kan worden.
+
+//// figuur 23 foto van interne elektro componenten ////
+
+De electronische componenten zijn:
+Camera met sensoren, microcontroller, batterijen, rond lcd-scherm, vibratie component, speaker, flexsensor (voor de knop), proximity sensor (om te zien wanneer de telescoop geopend wordt), rotatie sensor (voor het in- en uitzoomen), oplaadpoort
+
+Andere componenten die nog toegevoegd moeten worden zijn een beschermglas langs voor en achter en mogelijks lenzen zodat het scherm duidelijker zichtbaar en leesbaar is.
+
+De software die de dieren herkent en die de augmented reality stuurt zal uiteraard ook uitgezocht en getest moeten worden. Een mogelijke oplossing hiervoor zijn camera's met geintegreerde image recognition. Een voorbeeld hiervan is de Pixie 2 maar er zijn er nog. Dit moet verder nog uitgezocht worden.
+Het spel kan ook grafisch en op het vlak van gameification nog verder uitgewerkt worden.
+
+
 ### Design requirements 
 Uit de testen zijn criteria voortgekomen. Deze criteria zijn omgezet in design requirements voor het eindproduct. Gedurende het jaar en het verlooop van de prototypes is er elke keer geprobeerd om zoveel mogelijk requirements af te checken om een zo goed mogelijk product te krijgen. Naast de rechstreekse antwoorden op onderzoeksvragen kwam er uit elk gesprek met doelpubliek, experten,... ook andere inzichten boven. Deze zijn ook opgenomen in de requirements.
 De requirements zijn onderverdeel onder volgende categoriën:
