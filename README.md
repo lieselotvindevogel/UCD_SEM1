@@ -202,57 +202,36 @@ De gebruikers krijgen een korte uitleg van het spel en het voorwerp. Ze krijgen 
  #### Totale lengte telescoop (n=3)
  <p align="justify">
 De data voor de lengte van de arm geeft voor P5 een lengte van 504mm. Er wordt een buis voorzien die langer is dan deze lengte. Zo kunnen de gebruikers de buis minder ver of net verder dan 504 schuiven.
- <p align="justify">
- De gekozen buis uit het eerste deel wordt vervolgens op het lange stuk buis gestoken. Zoals op figuur 10 te zien is. De gebruikers worden vervolgens gevraagd om de buis een paar keer naar voor en naar achter te schuiven en vervolgens om de buis te schuiven tot de locatie tot waar het comfortabel aanvoelt. Deze afstand wordt aangeduid op de buis en wordt opgenomen.
 
  <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 10: test totale lengte </em></p>
-
-Een uitgebreid protocol is te vinden via volgende link: [Protocol development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EZeUeyl1f-5Ij6RfCyWWGyYBc1mDRPKKcv3YyqOjGo0wqA?e=CkTYwd)
+ <p align="justify">
+ De gekozen buis uit het eerste deel wordt vervolgens op het lange stuk buis gestoken. Zoals op figuur 10 te zien is. De gebruikers worden vervolgens gevraagd om de buis een paar keer naar voor en naar achter te schuiven en vervolgens om de buis te schuiven tot de locatie tot waar het comfortabel aanvoelt. Deze afstand wordt aangeduid op de buis en wordt opgenomen.</p>
+Het volledige protocol is te vinden via volgende link: [Protocol development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EZeUeyl1f-5Ij6RfCyWWGyYBc1mDRPKKcv3YyqOjGo0wqA?e=CkTYwd)
  
 ### Resultaten
 #### Diameter eerste buis
-#### Totale lengte telescoop
-
-### Conclusies & implicaties
-
-#### Motivatie
 <p align="justify">
-We willen weten welke diameter van de buis en de totale lengte de gebruiker het leukste vindt en waarom. Voor deze reden laten we elke gebruiker interageren met elk de verschillende diameters. Zo kan de respondent goed vergelijken tussen de verschillende stukken en aantonen waarom die voor het ene kiest en niet voor het andere.
+Testpersoon 1 vindt de 2e afmeting van de buis het beste. De 1e voelt te groot aan en de 3e is dan weer te klein. De 2e ligt perfect in de hand.
+<p align="justify">
+Testpersoon 2 verkiest ook de 2e tegenover de andere diameters. Toen de 3e buis werd voorgesteld was er geen twijfel meer dat hij de 2e het beste vindt. Toen er naar de reden werd gevraagd was het antwoord direct dat de 1e buis te groot was voor zijn hand en de 3e dan weer te klein.
+<p align="justify">
+Testpersoon 3 verkiest de 1e grote buis tegenover de andere diameters. Dit kan te verklaren zijn doordat testpersoon 3 haar handen groter was dan de andere testpersonen. Het kan ook te verklaren zijn omdat ze al 11 was en de andere testpersonen 9/10 jaar oud. De tweede vond de testpersoon ook goed, maar toch ging de voorkeur naar 1. De derde was te klein, dit is zelf ook gecapteerd geweest tijdens het interview.
 
-#### Discussion Guide
-<p align="justify">
-Uitleg van het spel
-Wij maken een spel waarmee je op zoek kan gaan in de dierentuin naar verschillende dieren. Je moet deze dieren dan zoeken en dan kan je deze digitaal verzamelen door ernaar te kijken en zo kan je verschillende missies volbrengen door allemaal dingen omtrent het dier te verzamelen. Met de gevonden gegevens zal er een eindspel gemaakt worden. 
-
-#### De 3 verschillende diameters testen 
-<p align="justify">
-De telescoop kan uitgeschoven worden, maar wat is nu juist de aangenaamste diameter van het eerste stuk. Deze 3 diameters zijn 74-50 en 40 centimeter. Nu wordt gevraagd welke het beste aanvoelt?
-<p align="justify">
-Testpersoon 1 vindt de 2e  afmeting van de buis het beste. De 1e  voelt te groot aan en de 3e  is dan weer te klein. De 2e  ligt perfect in de hand. Hij was wel zeer enthousiast om direct erdoor te kijken en op zoektocht te gaan.
-<p align="justify">
-Testpersoon 2 verkiest ook de 2e  tegenover de andere diameters. Toen de 3e buis werd voorgesteld was er geen twijfel meer dat hij de 2e  het beste vindt. Toen er naar de reden werd gevraagd was het antwoord direct dat de 1e buis te groot was voor zijn hand en de 3e dan weer te klein.  
-<p align="justify">
-Testpersoon 3 verkiest de 1e  grote buis tegenover de andere diameters. Dit kan te verklaren zijn doordat testpersoon 3 haar handen groter was dan de andere testpersonen. Het kan ook te verklaren zijn omdat ze al 11 was en de andere testpersonen 9/10 jaar oud. De tweede vond de testpersoon ook goed, maar toch ging de voorkeur naar 1. De derde was te klein, dit is zelf ook gecapteerd geweest tijdens het interview.
-
-
-#### De totale lengte testen 
+ #### Totale lengte telescoop
 Voor de eerste persoon maakte het niet veel uit, maar uiteindelijk heeft hij toch een antwoord gegeven. De totale lengte van de schuifbuis vond hij goed genoeg. 
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%201%20-%20lengte.jpg" width= "50%"/></br><em> Figuur 10: totale lengte persoon 1 </em></p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%201%20-%20lengte.jpg" width= "50%"/></br><em> Figuur 10: totale lengte persoon 1 </em></p>
 De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaande foto)
-<p><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 11: totale lengte persoon 2 </em></p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 11: totale lengte persoon 2 </em></p>
 De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verschoof de buis tot aan de stop en vond dit perfect. 
-<img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon3%20-%20lengte.jpeg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 3 </em>
-
-
-
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon3%20-%20lengte.jpeg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 3 </em></p>
 <p align="justify">
-Deze test was niet eenvoudig te bepalen want voor de kinderen doet de lengte er niet echt toe. Ze vonden het allemaal goed wat er gedaan werd. 
+Deze test was niet eenvoudig te bepalen want voor de kinderen doet de lengte er niet echt toe. Ze vonden het allemaal goed wat er gedaan werd. </p>
+Het volledige rapport is te vinden via volgende link: [Rapport development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EXGRewh3i4lKsPRrRqzr-GIBd-kwIrw7r99lA7hs726Zgw?e=LNdLLp)
+ 
+ ### Conclusies & implicaties
+De conclusie van deze development is dat de eerste buis een maximale diameter van 50mm kan hebben. De totale lengte van de telescoop mag maximaal 500mm zijn. Met deze afmetingen blijft het voorwerp comfortabel voor de gebruikers.
 
- #### Wat denken ze van het spel
- <p align="justify">
-Om toch het nut van dit onderzoek te bekijken is er aan de kinderen zelf en aan de ouders eens gevraagd wat ze van het concept vonden. 
-De ouders zagen het zeker en vast als een nuttig project. De kinderen waren helemaal mee in het verhaal en wilden zeker en vast dit in de toekomst spelen.
-Ze wilden al op avontuur vertrekken.
+
 
 ## Development 2: The Mind 
 ### Doelstellingen
