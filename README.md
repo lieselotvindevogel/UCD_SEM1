@@ -252,27 +252,36 @@ Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de expe
  <li>Eenvoudige iconen/ handeling</li>
  <li>Esthetisch en minimalistisch design</li>
 </ul>
-Deze criteria worden beoordeeld en genoteerd. Vervolgens kunnen deze omgezet worden in design requirements.
+Deze criteria worden beoordeeld en genoteerd. Vervolgens kunnen deze omgezet worden in design requirements. Tijdens de test wordt er ook geobserveerd wat de gebruikers met het object doen en hoe ze het spel spelen.
 
-De experten krijgen eerst een korte uitleg van het spel. Vervolgens spelen zij het spel. Dit gebeurt via een smartphone die op het einde van de telescoop het scherm simuleert dat in latere versies verwerkt zal zijn in de telescoop zelf. Op het scherm komt een eertse versie van het spel dat gemaakt is in Protopie. Omdat er geen logica en electronica in dit prototype aanwezig is wordt de Wizard of Oz techniek toegepast. Respondenten voeren de interactie met het prototype uit maar de interviewer stuurt met de controller op een apart scherm de applicatie aan.
+De experten krijgen eerst een korte uitleg van het spel. Vervolgens spelen zij het spel. Dit gebeurt via een smartphone die op het einde van de telescoop het scherm simuleert dat in latere versies verwerkt zal zijn in de telescoop zelf. Op het scherm komt een eertse versie van het spel die gemaakt is in Protopie. Omdat er geen logica en electronica in dit prototype aanwezig is wordt de Wizard of Oz techniek toegepast. Respondenten voeren de interactie met het prototype uit maar de interviewer stuurt met de controller op een apart scherm de applicatie aan. Figuur 13 toont het prototype waarop deze test uitgevoerd is.
 
+///// foto 13 van prototype /////
+///// foto 14 van prototype /////
+Figuur 14 toont de gsmhouder waarmee een scherm gegenereerd wordt.
+Tussen de twee testen met de verschillende experts is het design van de protopie reeds aangepast om nog betere optimalisatie toe te laten.
 
 #### Usability testen (n=2)
+De usability testen worden uitgevoerd bij twee proefpersonen van het doelpubliek. Enkele usability goals zijn opgesteld en deze worden afgetoetst bij deze gebruikers. Dit is ook de eerste keer dat een gebruiker van het doelpubliek het spel zal spelen en dus zijn ook de reacties tijdens het spelen zeer belangrijk. 
+De proefpersonen krijgen een korte uitleg van het spel. Vervolgens spelen ze het spel, met behulp van de WoZ techniek. Na het spelen van het spel is er een gesprek om te vragen wat ze ervan vonden. De antwoorden op de vragen worden genoteerd en verwerkt tot design requirements. 
 
-
+##### Usability goals
+<ul>
+ <li>Het uitschuiven om het spel aan te zetten moet zonder uitleg logisch zijn</li>
+ <li>De speler begrijpt dat hij vooraan moet knijpen om te interageren met het spel (met de uitleg die gegeven is)</li>
+ <li>Het draaien aan de telescoop om in en uit te zoomen lukt en voelt natuurlijk aan</li>
+ <li>De speler kan het spel volgen en begrijpt telkens wat hij moet doen zonder bijkomende uitleg</li>
+ <li>Het verschil tussen de interactie van lang en kort knijpen wordt duidelijk en heeft geen verdere uitleg nodig (uiteindelijke doel, er moet op het einde van het spel niet altijd meer gezegd worden wanneer er lang geknepen moet worden en wanneer kort)</li>
+ <li>De gebruiker kijkt echt door de telescoop en gebruikt het echt om mee rond te kijken door de ruimte (hij/zei kijkt niet gewoon rond en dan door de telescoop maar kijkt de hele tijd door de telescoop zelf)</li>
+</ul>
 Het volledige protocol is te vinden via volgende link: [Protocol development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EbLS7eyIyCVJgyqAJpTK9MQBhUPuMMKVQ3SPZoPrF560Tw?e=2HB8Mu)
+
 ### Resultaten
+
 Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
 
 ### Conclusies & implicaties
 
-
-
-
-
-
-Om zo’n goed mogelijke feedback te krijgen van de medestudenten worden de reviews niet samen afgelegd. De data wordt opgenomen door notities te maken en observaties te maken. Na het interview worden de observaties opgeschreven zodat deze in het rapport opgenomen kunnen worden. Achteraf wordt de data geanalyseerd door een antwoord te formuleren op de onderzoeksvragen door de thema’s die besproken zijn in het interview te gebruiken.  
-Aan de hand van een figma template zullen de experts feedback geven op het ontwerp. Op dit bestand staan de heuristieken van Nielsen die van belang hebben op deze review en nog enkele andere belangrijke onderwerpen waar de experts op moeten letten. De template van die gebruikt is, is terug te vinden op onedrive. 
 
 Het prototype is aangepast geweest tijdens de testen met de medestudenten met de gegeven feedback. Door dit te doen konden we het product nog beter optimaliseren. 
 
