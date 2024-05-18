@@ -339,26 +339,58 @@ Deze development heeft veel inzichten met zich meegebracht. Deze inzichten kunnn
 
 ## Development 3 : The Senses 
 ### Doelstellingen
+<p align="justify">
+Het doel van de laatste develop opdracht is om het prototype nog een laatste keer te verbeteren. De focus ligt vooral op de human senses en dus op de input en de output van de verschillende interacties. Het concept is geanalyseerd met een hiërarchische taakanalyse waarin de interactieopties in kaart zijn gebracht. Deze analyse beschrijft stap voor stap hoe het product wordt gebruikt, van begin tot eind.  Deze mapping was essentieel om de juiste interacties effectief te kunnen testen. Bij iedere interactie is nagedacht naar de verschillende mogelijkheden. Voor de testen is er gekozen om gebruikt te maken van geluid, trillingen en visuele weergave. Deze interacties zijn ieder op zijn manier toegevoegd aan het prototype. Uit de testen zal blijken of dit een meerwaarde was om toe te voegen of niet.  
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/hi%C3%ABrarchische%20taakanalyse.png" width= "95%"/></br><em> Figuur 18: hiërarchische taakanalyse </em>
+<ul>
+ <li>Zijn de aanpassingen een nuttige toevoeging?</li>
+ <li>Is de knop beter nu er een siliconen knijpstuk zit?</li>
+ <li>Is de ratel bij het draaien een meerwaarde?</li>
+ <li>Het spel maakt geluid bij bepaalde handelingen, is dit een verbetering?</li>
+ <li>Het spel trilt bij bepaalde handelingen, is dit een verbetering?</li>
+</ul>
+
+Er wordt een antwoord gezocht op deze bovenstaande vragen.
+
 ### Materiaal & methoden
+<p align="justify">
+Deze vragen worden onderzocht aan de hand van een usability test (n=4) bij het doelpubliek. De protopie is sinds de vorige test aangepast. Deze maakt nu ook geluid bij bepaalde handelingen en zorgt voor trillingen in de gsm tijdens het scannen. Halfverwege de testversie van het spel valt dit geluid en deze trilling weg. 
+Er zijn ook enkele fysieke toevoegingen gedaan aan het prototype. Op figuur 19 is de siliconen knijpknop te zien. Door hierin te knijpen hebben de gebruikers interactie met het spel. Op figuur 20 is een ratel te zien. Deze zorgt voor geluid en trilling bij het draaien om in en uit te zoomen. 
+
+//// figuur 19  /////
+//// figuur 20 /////
+
+<p align="justify">
+De respondenten worden gevraagd om het protopiespel te spelen. Tijdens het spel moet de interviewer goed observeren wat de reactie is als het geluid wegvalt. Na het spel wordt een gesprek gestart met enkele vragen om hun ervaring met de interacties te bepalen.
+De data wordt opgenomen door notities te maken en observaties te maken. Na het interview worden de observaties opgeschreven zodat deze in het rapport opgenomen kunnen worden. Achteraf wordt de data geanalyseerd door een antwoord te formuleren op de onderzoeksvragen door de thema’s die besproken zijn in het interview te gebruiken. 
+
 Het volledige protocol is te vinden via volgende link: [Protocol development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EfGBGDDeJCtCnnst6exLfhcBnYmyQGcC4pjrI1hwY7UFUA?e=8HyVR0)
 
 ### Resultaten
+
+/// figuur 21 iemand met het finale prototype ///
+
 Het volledige rapport is te vinden via volgende link: [Rapport development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EdRbPTddkplFs-zOVoXkUjIBpAc73GV-_wfh07C0kwwXjw?e=2dbd3q)
 
 ### Conclusies & implicaties
+| Requirement                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------|
+| Variatie in de leerdoelen en uitdagingen om de nieuwsgierigheid van de kinderen te prikkelen. Meer verscheidenheid in opdrachten. |
+| De optie om te kiezen uit verschillende soorten telescopen met unieke eigenschappen en kleuren.                |
+| Mogelijkheid om de telescoop aan te passen qua kleur en uiterlijk.                                            |
+| De knop moet visueel aangeven wanneer er geknepen moet worden, bijvoorbeeld door te knipperen of trillen in de knop zelf. |
+| De telescoop moet trillen tijdens het scannen en bij specifieke gebeurtenissen, zoals het verkrijgen van sterren. |
+| Geluid is belangrijk tijdens het spelen, extra geluidseffecten toevoegen.                                       |
+| De stem moet duidelijk en goed verstaanbaar zijn, eventueel met de mogelijkheid om de stem te kiezen of aan te passen. |
+| Een stem die instructies geeft is nuttig, vooral aan het begin, maar moet niet te veel praten. (meeste info nog steeds ook visueel) |
+| Samen met vrienden kunnen spelen. Een sociaal aspect eraan toevoegen.                                           |
+| Een knijpknop is een goede vorm van interactie (zorgt ook voor een vorm van robuustheid).                       |
+| De telescoop moet een voelbare trilling geven tijdens het draaien om in en uit te zoomen (Geeft een beter gevoel van dat er iets gebeurt). |
 
-#### Analyse 
-Het concept is geanalyseerd met een hiërarchische taakanalyse waarin de interactieopties in kaart zijn gebracht. Deze analyse beschrijft stap voor stap hoe het product wordt gebruikt, van begin tot eind. Elke interactie is gekoppeld aan een specifieke interactie. Deze mapping was essentieel om de juiste interacties effectief te kunnen testen. De analyse, inclusief de interacties, is weergegeven in onderstaande figuur. Bij iedere interactie is nagedacht naar de verschillende mogelijkheden. Voor de testen is er gekozen om gebruikt te maken van geluid, trillingen en visuele weergave. Deze interacties zijn ieder op zijn manier toegevoegd aan het prototype. Uit de testen is gekomen of dit een meerwaarde was om te testen of niet.  
-<img src="https://github.com/lieselotvindevogel/images/blob/main/hi%C3%ABrarchische%20taakanalyse.png" width= "95%"/></br><em> Figuur 13: hiërarchische taakanalyse </em>
+## Vervolg/verdere verloop
+In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
 
-
-
-#### Usability test
-Het prototype is zo aangepast geweest dat er mogelijkheid was tot enkele interacties. Dit is gerealiseerd met behulp van enkele teststukken en met behulp van een aangepast prototopie. Om het draaigeluid te creëren is er gebruik gemaakt van een ratel. Dit wordt weergegeven in fig. 14. Om het knijpgevoel te maken is er een stuk uit de laatste buis van de telescoop gesneden en vervangen door een siliconen stuk (fig.15). In het ontwerp van protopie zijn er enkele overgangsgeluiden toegevoegd. Met behulp van de usability test wordt getest of deze toevoegingen een meerwaarde zijn. 
-
-##### Materiaal
-[protopie]https://cloud.protopie.io/p/89a8882400aad513e4fef9ea?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1&handoff=true 
-Telescoop: 
+## Algemene Conclusie
 ## Design requirements 
 Bij al de bekomen resultaten is ook gekeken naar hun effect op de design requirements. Hieruit is er een tabel met de voorlopige design requirements gekomen.
 
@@ -382,8 +414,7 @@ Bij al de bekomen resultaten is ook gekeken naar hun effect op de design require
 ||De interface moet eenvoudig en duidelijk zijn, waardoor het gebruik van het product direct en moeiteloos is voor het kind.|
 ||Er moet mogelijkheid zijn voor fysieke verandering en interactie met het product.|
 
-## Vervolg/verdere verloop
-In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
+
 
 
 ## Kritische reflectie
