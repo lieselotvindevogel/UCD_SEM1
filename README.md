@@ -205,8 +205,9 @@ De data voor de lengte van de arm geeft voor P5 een lengte van 504mm. Er wordt e
 
  <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon%202-%20lengte.jpg" width= "50%"/></br><em> Figuur 10: test totale lengte </em></p>
  <p align="justify">
- De gekozen buis uit het eerste deel wordt vervolgens op het lange stuk buis gestoken. Zoals op figuur 10 te zien is. De gebruikers worden vervolgens gevraagd om de buis een paar keer naar voor en naar achter te schuiven en vervolgens om de buis te schuiven tot de locatie tot waar het comfortabel aanvoelt. Deze afstand wordt aangeduid op de buis en wordt opgenomen.</p>
-Het volledige protocol is te vinden via volgende link: [Protocol development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EZeUeyl1f-5Ij6RfCyWWGyYBc1mDRPKKcv3YyqOjGo0wqA?e=CkTYwd)
+ De gekozen buis uit het eerste deel wordt vervolgens op het lange stuk buis gestoken. Zoals op figuur 10 te zien is. De gebruikers worden vervolgens gevraagd om de buis een paar keer naar voor en naar achter te schuiven en vervolgens om de buis te schuiven tot de locatie tot waar het comfortabel aanvoelt. Deze afstand wordt aangeduid op de buis en wordt opgenomen.
+  
+Het volledige protocol is te vinden via volgende link: [Protocol development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EZeUeyl1f-5Ij6RfCyWWGyYBc1mDRPKKcv3YyqOjGo0wqA?e=F26V6i).
  
 ### Resultaten
 #### Diameter eerste buis
@@ -225,9 +226,10 @@ De tweede persoon wilde zelf nog langer gaan dan de normale buis. (zie onderstaa
 De derde persoon vindt de lengte van de stok goed genoeg. De testpersoon verschoof de buis tot aan de stop en vond dit perfect. 
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/testpersoon3%20-%20lengte.jpeg" width= "50%"/></br><em> Figuur 12: totale lengte persoon 3 </em></p>
 <p align="justify">
-Deze test was niet eenvoudig te bepalen want voor de kinderen doet de lengte er niet echt toe. Ze vonden het allemaal goed wat er gedaan werd. </p>
-Het volledige rapport is te vinden via volgende link: [Rapport development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EXGRewh3i4lKsPRrRqzr-GIBd-kwIrw7r99lA7hs726Zgw?e=LNdLLp)
- 
+Deze test was niet eenvoudig te bepalen want voor de kinderen doet de lengte er niet echt toe. Ze vonden het allemaal goed wat er gedaan werd.
+
+Het volledige rapport is te vinden via volgende link: [Rapport development 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EXGRewh3i4lKsPRrRqzr-GIBd-kwIrw7r99lA7hs726Zgw?e=LNdLLp) 
+
  ### Conclusies & implicaties
 De conclusie van deze development is dat de eerste buis een maximale diameter van 50mm kan hebben. De totale lengte van de telescoop mag maximaal 500mm zijn. Met deze afmetingen blijft het voorwerp comfortabel voor de gebruikers.
 
@@ -235,21 +237,45 @@ De conclusie van deze development is dat de eerste buis een maximale diameter va
 
 ## Development 2: The Mind 
 ### Doelstellingen
+Deze deeldevelopment focust zich op de usability en de user experience. In deze fase wordt er een eerste versie van het spel gemaakt en wordt dit voor een eerste keer getest op gebruikers. Als eerste wordt het product bij experts getest. Vervolgens vindt er een aanpassing plaats en worden er usability testen gedaan bij het doelpubliek. Het doel van deze fase is het spel en de interacties met het voorwerp om het spel te kunnen spelen te evalueren. De interactie met de telescoop en het spel zullen enkele design criteria met zich meebrengen om zowel het spel zelf als het object mee te verbeteren.
+
+### Materiaal & methoden
+
+Deze development bestaat uit twee delen. Als eerste een expert evaluation bij medestudenten en vervolgens usability testen bij het doelpubliek.
+
+#### Expert evaluation (n=2)
 Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de experten zullen naar kijken bij het testen van het prototype. Uit de heuristieken is er gekozen geweest voor volgende aandachtspunten.
 <ul>
  <li>Error preventie</li>
  <li>Herkenning in plaats van herinnering</li>
  <li>Flexibiliteit en efficiëntie in gebruik</li>
  <li>Eenvoudige iconen/ handeling</li>
+ <li>Esthetisch en minimalistisch design</li>
 </ul>
+Deze criteria worden beoordeeld en genoteerd. Vervolgens kunnen deze omgezet worden in design requirements.
+
+De experten krijgen eerst een korte uitleg van het spel. Vervolgens spelen zij het spel. Dit gebeurt via een smartphone die op het einde van de telescoop het scherm simuleert dat in latere versies verwerkt zal zijn in de telescoop zelf. Op het scherm komt een eertse versie van het spel dat gemaakt is in Protopie. Omdat er geen logica en electronica in dit prototype aanwezig is wordt de Wizard of Oz techniek toegepast. Respondenten voeren de interactie met het prototype uit maar de interviewer stuurt met de controller op een apart scherm de applicatie aan.
+
+
+#### Usability testen (n=2)
+
+
+Het volledige protocol is te vinden via volgende link: [Protocol development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EbLS7eyIyCVJgyqAJpTK9MQBhUPuMMKVQ3SPZoPrF560Tw?e=2HB8Mu)
+### Resultaten
+Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
+
+### Conclusies & implicaties
+
+
+
+
+
+
 Om zo’n goed mogelijke feedback te krijgen van de medestudenten worden de reviews niet samen afgelegd. De data wordt opgenomen door notities te maken en observaties te maken. Na het interview worden de observaties opgeschreven zodat deze in het rapport opgenomen kunnen worden. Achteraf wordt de data geanalyseerd door een antwoord te formuleren op de onderzoeksvragen door de thema’s die besproken zijn in het interview te gebruiken.  
 Aan de hand van een figma template zullen de experts feedback geven op het ontwerp. Op dit bestand staan de heuristieken van Nielsen die van belang hebben op deze review en nog enkele andere belangrijke onderwerpen waar de experts op moeten letten. De template van die gebruikt is, is terug te vinden op onedrive. 
 
 Het prototype is aangepast geweest tijdens de testen met de medestudenten met de gegeven feedback. Door dit te doen konden we het product nog beter optimaliseren. 
 
-### Materiaal & methoden
-### Resultaten
-### Conclusies & implicaties
 
 ## Development 3: The Senses 
 ### Doelstellingen
