@@ -282,7 +282,7 @@ De proefpersonen krijgen een korte uitleg van het spel. Vervolgens spelen ze het
  <li>Het verschil tussen de interactie van lang en kort knijpen wordt duidelijk en heeft geen verdere uitleg nodig (uiteindelijke doel, er moet op het einde van het spel niet altijd meer gezegd worden wanneer er lang geknepen moet worden en wanneer kort)</li>
  <li>De gebruiker kijkt echt door de telescoop en gebruikt het echt om mee rond te kijken door de ruimte (hij/zei kijkt niet gewoon rond en dan door de telescoop maar kijkt de hele tijd door de telescoop zelf)</li>
 </ul>
-<p align="justify">
+
 Het volledige protocol is te vinden via volgende link: [Protocol development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EbLS7eyIyCVJgyqAJpTK9MQBhUPuMMKVQ3SPZoPrF560Tw?e=2HB8Mu)
 
 ### Resultaten
@@ -308,7 +308,7 @@ Enkele voorbeelden van antwoorden.
 “Wat ik moeilijk vond, was soms de opdrachten heel snel achter elkaar kwamen, dan moest ik goed opletten.”
 
 //// figuur 17 persoon met prototype ////
-<p align="justify">
+
 Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
 
 ### Conclusies & implicaties
