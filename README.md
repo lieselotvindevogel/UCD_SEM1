@@ -258,13 +258,14 @@ Aan de hand van de heuristieken van Nielsen zijn er enkele criteria waar de expe
 Deze criteria worden beoordeeld en genoteerd. Vervolgens kunnen deze omgezet worden in design requirements. Tijdens de test wordt er ook geobserveerd wat de gebruikers met het object doen en hoe ze het spel spelen.
 <p align="justify">
 De experten krijgen eerst een korte uitleg van het spel. Vervolgens spelen zij het spel. Dit gebeurt via een smartphone die op het einde van de telescoop het scherm simuleert dat in latere versies verwerkt zal zijn in de telescoop zelf. Op het scherm komt een eertse versie van het spel die gemaakt is in Protopie. Omdat er geen logica en electronica in dit prototype aanwezig is wordt de Wizard of Oz techniek toegepast. Respondenten voeren de interactie met het prototype uit maar de interviewer stuurt met de controller op een apart scherm de applicatie aan. Figuur 13 toont het prototype waarop deze test uitgevoerd is.
-
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Foto13.jpg" width= "50%"/></br><em> Figuur 13: prototype </em>
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Foto14.jpg" width= "50%"/></br><em> Figuur 14: prototype </em>
-
+<p>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/Foto13.jpg" width= "30%"/></br>Figuur 13: prototype </em>
+</p>
 <p align="justify">
 Figuur 14 toont de gsmhouder waarmee een scherm gegenereerd wordt.
 Tussen de twee testen met de verschillende experts is het design van de protopie reeds aangepast om nog betere optimalisatie toe te laten.
+ 
+<img src="https://github.com/lieselotvindevogel/images/blob/main/Foto14.jpg" width= "30%"/></br><em> Figuur 14: prototype </em>
 
 #### Usability testen (n=2)
 <p align="justify">
@@ -289,15 +290,14 @@ Het volledige protocol is te vinden via volgende link: [Protocol development 2](
 <p align="justify">
 De eerste testpersoon kreeg de eerste versie van de protopie te zien. Figuur 15 toont het ingevulde figma bestand met de heuristieken van Nielssen.
 
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2015.jpg" width= "50%"/></br><em> Figuur 15: heuristieke evaluatie </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2015.jpg" width= "40%"/></br><em> Figuur 15: heuristieke evaluatie </em>
 
-//// figuur 15 ////
 
 <p align="justify">
 De tweede persoon kreeg dan al een tweede versie van de protopie applicatie te zien. Deze was al aangepast met enkele dingen die de eerste persoon had gezegd. Figuur 16 toont haar ingevuld figma bestand met de evaluatie voor deze versie en de interactie.
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2016.jpg" width= "50%"/></br><em> Figuur 16: heuristieke evaluatie </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2016.jpg" width= "40%"/></br><em> Figuur 16: heuristieke evaluatie </em>
 
-/// figuur 16 ////
+
 <p align="justify">
 Deze aandachtspunten zijn allemaal vertaald naar design requirements.
 
@@ -411,15 +411,17 @@ De antwoorden op de onderzoeksvragen zijn afgeleid uit de antwoorden van de gebr
 ### Conclusie
 <p align="justify">
 Alle testen en onderzoek hebben ons gebracht tot een prototype met een vrij grote productmaturiteit. Vooral op het vlak van vorm van het object en op het vlak van het spel en concept heeft het product al grote stappen gezet. Als we terugkijken naar de originele opdracht hebben we deze goed kunnen volbrengen. We hebben een technologisch speelgoed waardoor kinderen een leuk, speels en avontuurlijk moment kunnen hebben in een dierentuin. Dit leert hun iets bij over de dieren en brengt hun dichter in contact. Het eindproduct is een prototype dat er ook nog vrij goed uitziet. 
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(2).jpg" width= "50%"/>  <img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(1).jpg" width= "50%"/></br><em> Figuur 22: finaal protoype </em>
+ 
+<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(1).jpg" width= "40%"/>  <img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(2).jpg" width= "40%"/></br><em> Figuur 22: finaal prototype </em>
 
 
-///// figuur 22 foto van finaal prototype ////
+
  <p align="justify">
 In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
 Het bedenken en bouwen van de verschillende prototypes heeft ervoor gezorgd dat het product vooruit gaat. Verdere prototypes zijn zeker ook nog nodig. Dit zowel op de vlakken die al iets beter onderzocht zijn in deze studie, maar ook op het technologische vlak. Tot nu toe zit er nog geen electronica in het prototype. Hier is al voor een stuk over nagedacht maar het was een grote stap om deze ook te kunnen integreren binnen de grenzen van dit vak. Figuur 23 toont een visie van ons op hoe de electronica geintegreerd kan worden.
+  
 <img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2023.png" width= "50%"/></br><em> Figuur 23: interne elektronische componenten </em>
-//// figuur 23 foto van interne elektro componenten ////
+
 <p align="justify">
 De electronische componenten zijn:
 Camera met sensoren, microcontroller, batterijen, rond lcd-scherm, vibratie component, speaker, flexsensor (voor de knop), proximity sensor (om te zien wanneer de telescoop geopend wordt), rotatie sensor (voor het in- en uitzoomen), oplaadpoort
