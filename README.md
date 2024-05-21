@@ -18,7 +18,7 @@ Het kernidee omvat een telescoop die augmented reality gebruikt om kinderen te b
 ## Introductie
 <p align="justify">
 From screen time to green time. Een project om kinderen op een speelse manier weer naar buiten te brengen, midden in de natuur. Kunnen we technologie inzetten als een krachtige stimulans om jongeren aan te moedigen om meer buiten te spelen, extra plezier te beleven en tegelijkertijd kennis over de natuur op te doen? Het idee is om kinderen met behulp van een technologisch object de natuur in te lokken en hen een betoverende ervaring te bieden. 
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.jpg" width= "40%"/></br><em>Figuur 2: (Children are playing outside less and less | Adventure+, z.d.)</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Afbeelding1.jpg" width= "60%"/></br><em>Figuur 2: (Children are playing outside less and less | Adventure+, z.d.)</em>
 </p>
 <p align="justify">
 We richten ons specifiek op kinderen rond de leeftijd van 9 tot 11 jaar, omdat deze groep al voldoende bewustzijn heeft om zelf te ontdekken hoe ze met nieuwe technologieën kunnen omgaan. Het is van essentieel belang dat kinderen het object direct begrijpen en kunnen bedienen zodra ze het in handen krijgen. Ons doel is om kinderen op een interactieve wijze naar buiten te laten gaan, waarbij ze met behulp van technologie de wereld om hen heen kunnen verkennen. 
@@ -28,7 +28,7 @@ Met het finaal concept wordt er gestreefd om de natuur te verbinden met de digit
 ## Methodologie
 <p align="justify">
 De methodes die gevolgd worden voor dit project zijn de triple diamond van Zendesk en het NPD proces van Roozenberg en Eekels toegepast op het proces. Het eerste semester gaat over de eerste twee keren convergeren en focust zich dus op de discover en define fase van het project. Het tweede semester gaat over het prototype verder uitwerken met verschillende iteraties, de development fase, het laatste deel van de triple diamond. De specifieke stappen die gemaakt zijn in de discover en define zijn dieper uitgewerkt aan de hand van het NPD process. In het tweede semester is het NPD proces van Roozenberg en Eekels minder gebruikt doordat de richtlijnen van de opdrachten goed samen vielen met de triple diamond. Dit alles is weergegeven in 1 groot schema in fig. 3.  
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/methodologie.jpg" width= "60%"/></br><em>Figuur 3: methodologie </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/methodologie.jpg" width= "65%"/></br><em>Figuur 3: methodologie </em>
 </p>
 <p align="justify">
 In de discovery fase lag de focus vooral op User-Centered Design. Hierbij werden zorgvuldig de behoeften en wensen van gebruikers onderzocht. Hiermee werd een gefundeerde “how might we” gevormd waarmee er in de volgende fase aan de slag wordt gegaan. Dit staat gelijk aan het doorlopen van fase 1-2-3 bij Roozenberg en Eekels. Fase 4 is het einde van de discovery fase. De eerste definitie van het probleem is herbekeken en tot een “how might we” gekomen. 
@@ -259,13 +259,13 @@ Deze criteria worden beoordeeld en genoteerd. Vervolgens kunnen deze omgezet wor
 <p align="justify">
 De experten krijgen eerst een korte uitleg van het spel. Vervolgens spelen zij het spel. Dit gebeurt via een smartphone die op het einde van de telescoop het scherm simuleert dat in latere versies verwerkt zal zijn in de telescoop zelf. Op het scherm komt een eertse versie van het spel die gemaakt is in Protopie. Omdat er geen logica en electronica in dit prototype aanwezig is wordt de Wizard of Oz techniek toegepast. Respondenten voeren de interactie met het prototype uit maar de interviewer stuurt met de controller op een apart scherm de applicatie aan. Figuur 13 toont het prototype waarop deze test uitgevoerd is.
 <p>
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Foto13.jpg" width= "30%"/></br>Figuur 13: prototype </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Foto13.jpg" width= "30%"/></br>Figuur 13: prototype </em></p>
 </p>
 <p align="justify">
 Figuur 14 toont de gsmhouder waarmee een scherm gegenereerd wordt.
 Tussen de twee testen met de verschillende experts is het design van de protopie reeds aangepast om nog betere optimalisatie toe te laten.
  
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Foto14.jpg" width= "30%"/></br><em> Figuur 14: prototype </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Foto14.jpg" width= "30%"/></br><em> Figuur 14: prototype </em></p>
 
 #### Usability testen (n=2)
 <p align="justify">
@@ -290,12 +290,12 @@ Het volledige protocol is te vinden via volgende link: [Protocol development 2](
 <p align="justify">
 De eerste testpersoon kreeg de eerste versie van de protopie te zien. Figuur 15 toont het ingevulde figma bestand met de heuristieken van Nielssen.
 
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2015.jpg" width= "40%"/></br><em> Figuur 15: heuristieke evaluatie </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2015.jpg" width= "40%"/></br><em> Figuur 15: heuristieke evaluatie </em></p>
 
 
 <p align="justify">
 De tweede persoon kreeg dan al een tweede versie van de protopie applicatie te zien. Deze was al aangepast met enkele dingen die de eerste persoon had gezegd. Figuur 16 toont haar ingevuld figma bestand met de evaluatie voor deze versie en de interactie.
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2016.jpg" width= "40%"/></br><em> Figuur 16: heuristieke evaluatie </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2016.jpg" width= "40%"/></br><em> Figuur 16: heuristieke evaluatie </em></p>
 
 
 <p align="justify">
@@ -310,7 +310,7 @@ Enkele voorbeelden van antwoorden.
 “Wat ik moeilijk vond, was soms de opdrachten heel snel achter elkaar kwamen, dan moest ik goed opletten.”
 
 //// figuur 17 persoon met prototype ////
-<img src="" width= "50%"/></br><em> Figuur 17: testpersoon met prototype </em>
+<p align="middle"><img src="" width= "50%"/></br><em> Figuur 17: testpersoon met prototype </em></p>
 
 
 Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
@@ -364,8 +364,8 @@ Er zijn ook enkele fysieke toevoegingen gedaan aan het prototype. Op figuur 19 i
 <img src="" width= "50%"/></br><em> Figuur 20: </em>
 
 
-//// figuur 19  /////
-//// figuur 20 /////
+<p align="middle">//// figuur 19  /////</p>
+<p align="middle">//// figuur 20 /////</p>
 
 <p align="justify">
 De respondenten worden gevraagd om het protopiespel te spelen. Tijdens het spel moet de interviewer goed observeren wat de reactie is als het geluid wegvalt. Na het spel wordt een gesprek gestart met enkele vragen om hun ervaring met de interacties te bepalen.
@@ -382,7 +382,7 @@ De proefpersonen gaven veel antwoorden op de vragen die gesteld werden. Deze ant
 “Misschien zou het leuk zijn als de telescoop ook trilt als je de sterren krijgt.”
 
 /// figuur 21 iemand met het finale prototype ///
-<img src="" width= "50%"/></br><em> Figuur 21: finaal prototype </em>
+<p align="middle"><img src="" width= "50%"/></br><em> Figuur 21: finaal prototype </em></p>
 
 
 Het volledige rapport is te vinden via volgende link: [Rapport development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EdRbPTddkplFs-zOVoXkUjIBpAc73GV-_wfh07C0kwwXjw?e=2dbd3q)
@@ -412,7 +412,7 @@ De antwoorden op de onderzoeksvragen zijn afgeleid uit de antwoorden van de gebr
 <p align="justify">
 Alle testen en onderzoek hebben ons gebracht tot een prototype met een vrij grote productmaturiteit. Vooral op het vlak van vorm van het object en op het vlak van het spel en concept heeft het product al grote stappen gezet. Als we terugkijken naar de originele opdracht hebben we deze goed kunnen volbrengen. We hebben een technologisch speelgoed waardoor kinderen een leuk, speels en avontuurlijk moment kunnen hebben in een dierentuin. Dit leert hun iets bij over de dieren en brengt hun dichter in contact. Het eindproduct is een prototype dat er ook nog vrij goed uitziet. 
  
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(1).jpg" width= "40%"/>  <img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(2).jpg" width= "40%"/></br><em> Figuur 22: finaal prototype </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(1).jpg" width= "40%"/>  <img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2022%20(2).jpg" width= "40%"/></br><em> Figuur 22: finaal prototype </em></p>
 
 
 
@@ -420,7 +420,7 @@ Alle testen en onderzoek hebben ons gebracht tot een prototype met een vrij grot
 In eerste instantie is het product verder ontwikkeld met Protopie. Dit is een goedkope manier om de eerste interactie met het scherm en het spel te simuleren. Door middel van wizard of oz simulatie kunnen we met een tweede scherm het scherm binnen het product aansturen. In het prototype was het niet nodig om arduino toe te voegen, maar in het mate van mogelijk is dit toch toegepast.
 Het bedenken en bouwen van de verschillende prototypes heeft ervoor gezorgd dat het product vooruit gaat. Verdere prototypes zijn zeker ook nog nodig. Dit zowel op de vlakken die al iets beter onderzocht zijn in deze studie, maar ook op het technologische vlak. Tot nu toe zit er nog geen electronica in het prototype. Hier is al voor een stuk over nagedacht maar het was een grote stap om deze ook te kunnen integreren binnen de grenzen van dit vak. Figuur 23 toont een visie van ons op hoe de electronica geintegreerd kan worden.
   
-<img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2023.png" width= "50%"/></br><em> Figuur 23: interne elektronische componenten </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2023.png" width= "60%"/></br><em> Figuur 23: interne elektronische componenten </em></p>
 
 <p align="justify">
 De electronische componenten zijn:
