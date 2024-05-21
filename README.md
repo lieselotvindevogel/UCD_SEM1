@@ -309,8 +309,8 @@ Enkele voorbeelden van antwoorden.
 “Kort knijpen was om het dier te zien te krijgen en lang knijpen was altijd als ik iets wou scannen.”
 “Wat ik moeilijk vond, was soms de opdrachten heel snel achter elkaar kwamen, dan moest ik goed opletten.”
 
-//// figuur 17 persoon met prototype ////
-<p align="middle"><img src="" width= "50%"/></br><em> Figuur 17: testpersoon met prototype </em></p>
+
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/17.jpg" width= "50%"/></br><em> Figuur 17: testpersoon met prototype </em></p>
 
 
 Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
@@ -360,12 +360,9 @@ Er wordt een antwoord gezocht op deze bovenstaande vragen.
 <p align="justify">
 Deze vragen worden onderzocht aan de hand van een usability test (n=4) bij het doelpubliek. De protopie is sinds de vorige test aangepast. Deze maakt nu ook geluid bij bepaalde handelingen en zorgt voor trillingen in de gsm tijdens het scannen. Halfverwege de testversie van het spel valt dit geluid en deze trilling weg. 
 Er zijn ook enkele fysieke toevoegingen gedaan aan het prototype. Op figuur 19 is de siliconen knijpknop te zien. Door hierin te knijpen hebben de gebruikers interactie met het spel. Op figuur 20 is een ratel te zien. Deze zorgt voor geluid en trilling bij het draaien om in en uit te zoomen. 
-<img src="" width= "50%"/></br><em> Figuur 19: </em>
-<img src="" width= "50%"/></br><em> Figuur 20: </em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/19.jpg" width= "50%"/></br><em> Figuur 19: siliconen knijpstuk</em>
+<img src="https://github.com/lieselotvindevogel/images/blob/main/20.jpg" width= "50%"/></br><em> Figuur 20: ratelstuk </em>
 
-
-<p align="middle">//// figuur 19  /////</p>
-<p align="middle">//// figuur 20 /////</p>
 
 <p align="justify">
 De respondenten worden gevraagd om het protopiespel te spelen. Tijdens het spel moet de interviewer goed observeren wat de reactie is als het geluid wegvalt. Na het spel wordt een gesprek gestart met enkele vragen om hun ervaring met de interacties te bepalen.
@@ -382,7 +379,7 @@ De proefpersonen gaven veel antwoorden op de vragen die gesteld werden. Deze ant
 “Misschien zou het leuk zijn als de telescoop ook trilt als je de sterren krijgt.”
 
 /// figuur 21 iemand met het finale prototype ///
-<p align="middle"><img src="" width= "50%"/></br><em> Figuur 21: finaal prototype </em></p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/21.png" width= "50%"/></br><em> Figuur 21: finaal prototype </em></p>
 
 
 Het volledige rapport is te vinden via volgende link: [Rapport development 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EdRbPTddkplFs-zOVoXkUjIBpAc73GV-_wfh07C0kwwXjw?e=2dbd3q)
