@@ -303,7 +303,7 @@ Deze aandachtspunten zijn allemaal vertaald naar design requirements.
 
 #### Usability testen
 <p align="justify">
-De preofpersonen gaven nuttige antwoorden op de vragen die gesteld zijn om de usability goals te testen. Deze antwoorden werden vervolgens ook vertaald naar design requirements.
+De proefpersonen gaven nuttige antwoorden op de vragen die gesteld zijn om de usability goals te testen. Deze antwoorden werden vervolgens ook vertaald naar design requirements.
 Enkele voorbeelden van antwoorden.
 “Ja, het was makkelijk om te begrijpen wat ik moest doen. De opdrachten kwamen op het scherm.”
 “Kort knijpen was om het dier te zien te krijgen en lang knijpen was altijd als ik iets wou scannen.”
