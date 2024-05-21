@@ -423,8 +423,8 @@ Het bedenken en bouwen van de verschillende prototypes heeft ervoor gezorgd dat 
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2023.png" width= "60%"/></br><em> Figuur 23: interne elektronische componenten </em></p>
 
 <p align="justify">
-De electronische componenten zijn:
-Camera met sensoren, microcontroller, batterijen, rond lcd-scherm, vibratie component, speaker, flexsensor (voor de knop), proximity sensor (om te zien wanneer de telescoop geopend wordt), rotatie sensor (voor het in- en uitzoomen), oplaadpoort
+De elektronische componenten zijn:
+camera met sensoren, microcontroller, batterijen, rond lcd-scherm, vibratie component, speaker, flexsensor (voor de knop), proximity sensor (om te zien wanneer de telescoop geopend wordt), rotatie sensor (voor het in- en uitzoomen), oplaadpoort
 <p align="justify">
 Andere componenten die nog toegevoegd moeten worden zijn een beschermglas langs voor en achter en mogelijks lenzen zodat het scherm duidelijker zichtbaar en leesbaar is.
 <p align="justify">
@@ -434,12 +434,12 @@ Het spel kan ook grafisch en op het vlak van gameification nog verder uitgewerkt
 
 ### Design requirements 
 <p align="justify">
-Uit de testen zijn criteria voortgekomen. Deze criteria zijn omgezet in design requirements voor het eindproduct. Gedurende het jaar en het verlooop van de prototypes is er elke keer geprobeerd om zoveel mogelijk requirements af te checken om een zo goed mogelijk product te krijgen. Naast de rechstreekse antwoorden op onderzoeksvragen kwam er uit elk gesprek met doelpubliek, experten,... ook andere inzichten boven. Deze zijn ook opgenomen in de requirements.
+Uit de testen zijn criteria voortgekomen. Deze criteria zijn omgezet in design requirements voor het eindproduct. Gedurende het jaar en het verloop van de prototypes is er elke keer geprobeerd om zoveel mogelijk requirements af te checken om een zo goed mogelijk product te krijgen. Naast de rechstreekse antwoorden op onderzoeksvragen kwam er uit elk gesprek met doelpubliek, experten,... ook andere inzichten boven. Deze zijn ook opgenomen in de requirements.
 De requirements zijn onderverdeel onder volgende categoriën:
 
 | Cognitief | Fysiek | Antropometrisch | Interactie | Feedback | Spel | Geluid | Esthetisch | Extra |
 |-----------|-------|-----------------|------------|----------|------|--------|-----------|-------|
-|           |       |                 |            |          |      |        |           |       |
+
 
 De volledige lijst met alle requirements die geldig zijn voor het product is terug te vinden via volgende link: [List of requirements](https://ugentbe-my.sharepoint.com/:x:/g/personal/guus_lecho_ugent_be/EcUe2no-oOJLtIS9VaK56fQB65QQruSuPiPCLdR_xoHUNQ?e=W1WTqq)
 
