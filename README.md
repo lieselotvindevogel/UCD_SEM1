@@ -361,9 +361,9 @@ Er wordt een antwoord gezocht op deze bovenstaande vragen.
 Deze vragen worden onderzocht aan de hand van een usability test (n=4) bij het doelpubliek. De protopie is sinds de vorige test aangepast. Deze maakt nu ook geluid bij bepaalde handelingen en zorgt voor trillingen in de gsm tijdens het scannen. Halfverwege de testversie van het spel valt dit geluid en deze trilling weg. 
 Er zijn ook enkele fysieke toevoegingen gedaan aan het prototype. Op figuur 19 is de siliconen knijpknop te zien. Door hierin te knijpen hebben de gebruikers interactie met het spel. Op figuur 20 is een ratel te zien. Deze zorgt voor geluid en trilling bij het draaien om in en uit te zoomen. 
  
-<img src="https://github.com/lieselotvindevogel/images/blob/main/19.jpg" width= "50%"/></br><em> Figuur 19: siliconen knijpstuk</em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/19.jpg" width= "50%"/></br><em> Figuur 19: siliconen knijpstuk</em>
 
-<img src="https://github.com/lieselotvindevogel/images/blob/main/20.jpg" width= "50%"/></br><em> Figuur 20: ratelstuk </em>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/20.jpg" width= "50%"/></br><em> Figuur 20: ratelstuk </em>
 
 
 <p align="justify">
