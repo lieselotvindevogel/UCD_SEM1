@@ -310,7 +310,7 @@ Enkele voorbeelden van antwoorden.
 “Wat ik moeilijk vond, was soms de opdrachten heel snel achter elkaar kwamen, dan moest ik goed opletten.”
 
 
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/17.jpg" width= "50%"/></br><em> Figuur 17: testpersoon met prototype </em></p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/17.jpg" width= "50%"/></br><em> Figuur 17: uitgeschoven prototype </em></p>
 
 
 Het volledige rapport is te vinden via volgende link: [Rapport development 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/guus_lecho_ugent_be/EcQ3tQcofmlDhvAmm6FE2CsBpbVfpBuwv3tyJWx7hR2olQ?e=AoFtCH)
@@ -360,7 +360,9 @@ Er wordt een antwoord gezocht op deze bovenstaande vragen.
 <p align="justify">
 Deze vragen worden onderzocht aan de hand van een usability test (n=4) bij het doelpubliek. De protopie is sinds de vorige test aangepast. Deze maakt nu ook geluid bij bepaalde handelingen en zorgt voor trillingen in de gsm tijdens het scannen. Halfverwege de testversie van het spel valt dit geluid en deze trilling weg. 
 Er zijn ook enkele fysieke toevoegingen gedaan aan het prototype. Op figuur 19 is de siliconen knijpknop te zien. Door hierin te knijpen hebben de gebruikers interactie met het spel. Op figuur 20 is een ratel te zien. Deze zorgt voor geluid en trilling bij het draaien om in en uit te zoomen. 
+ 
 <img src="https://github.com/lieselotvindevogel/images/blob/main/19.jpg" width= "50%"/></br><em> Figuur 19: siliconen knijpstuk</em>
+
 <img src="https://github.com/lieselotvindevogel/images/blob/main/20.jpg" width= "50%"/></br><em> Figuur 20: ratelstuk </em>
 
 
