@@ -154,7 +154,7 @@ Bij deze wave krijgt de gebruiker telkens maar één versie van de prototypes te
  <li>Gebruiker 3: Telescoop > verrekijker > vergrootglas</li>
 </ul>
 De volgorde van de vorm waren voor iedere gebruiker anders.
-<p align="middle"><img src="https://github.com/lieselotvindevogel/UCD_SEM1/blob/main/IMG_20240121_163212%20.jpg" width= "30%"/></br><em> Figuur 6: gebruiker wave 1</em></p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/IMG_20240121_163212%20(1).jpg" width= "30%"/></br><em> Figuur 6: gebruiker wave 1</em></p>
 <p align="justify">
 Over het algemeen tonen de conclusies aan dat de telescoop, ondanks enkele kwaliteitsproblemen met het schuifmechanisme, als het meest favorabele prototype wordt beschouwd vanwege de sterke visuele herkenning en de associatie met avontuurlijke verhalen. De verrekijker wordt ook positief beoordeeld, vooral vanwege de bekendheid ervan thuis en de goede passing op het gezicht. Het vergrootglas wordt als minder interessant beschouwd, voornamelijk omdat het als te eenvoudig en niet speels genoeg wordt ervaren. Over het algemeen benadrukken de conclusies het belang van herkenning, speelsheid en goede kwaliteit bij het ontwikkelen van een succesvol eindproduct.
 Bij de telescoop verstaan de kinderen rapper hoe ze met het voorwerp moeten omgaan. Dit kan ook liggen aan enige herkenning met het voorwerp, maar ook omdat het iets is wat eenvoudig te gebruiken valt. Het interesseert de kinderen zeker en vast dat de telescoop kan uitschuiven. Over het uitschuiven moet nog praktisch nagedacht worden omdat dit niet eenvoudig te realiseren valt met de elektronica die erin zal verwerkt moeten worden.
