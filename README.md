@@ -290,12 +290,12 @@ Het volledige protocol is te vinden via volgende link: [Protocol development 2](
 <p align="justify">
 De eerste testpersoon kreeg de eerste versie van de protopie te zien. Figuur 15 toont het ingevulde figma bestand met de heuristieken van Nielssen.
 
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2015.jpg" width= "40%"/></br><em> Figuur 15: heuristieke evaluatie </em></p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2015.jpg" width= "30%"/></br><em> Figuur 15: heuristieke evaluatie </em></p>
 
 
 <p align="justify">
 De tweede persoon kreeg dan al een tweede versie van de protopie applicatie te zien. Deze was al aangepast met enkele dingen die de eerste persoon had gezegd. Figuur 16 toont haar ingevuld figma bestand met de evaluatie voor deze versie en de interactie.
-<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2016.jpg" width= "40%"/></br><em> Figuur 16: heuristieke evaluatie </em></p>
+<p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/Figuur%2016.jpg" width= "30%"/></br><em> Figuur 16: heuristieke evaluatie </em></p>
 
 
 <p align="justify">
@@ -362,6 +362,7 @@ Deze vragen worden onderzocht aan de hand van een usability test (n=4) bij het d
 Er zijn ook enkele fysieke toevoegingen gedaan aan het prototype. Op figuur 19 is de siliconen knijpknop te zien. Door hierin te knijpen hebben de gebruikers interactie met het spel. Op figuur 20 is een ratel te zien. Deze zorgt voor geluid en trilling bij het draaien om in en uit te zoomen. 
  
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/19.jpg" width= "25%"/></br><em> Figuur 19: siliconen knijpstuk</em> 
+
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/20.jpg" width= "25%"/></br><em> Figuur 20: ratelstuk </em>
 
 
@@ -379,7 +380,7 @@ De proefpersonen gaven veel antwoorden op de vragen die gesteld werden. Deze ant
 “Das helemaal niet moeilijk. Het knijpen gaat makkelijk, ik heb geen problemen met die knop.”
 “Misschien zou het leuk zijn als de telescoop ook trilt als je de sterren krijgt.”
 
-/// figuur 21 iemand met het finale prototype ///
+
 <p align="middle"><img src="https://github.com/lieselotvindevogel/images/blob/main/21.png" width= "50%"/></br><em> Figuur 21: finaal prototype </em></p>
 
 
